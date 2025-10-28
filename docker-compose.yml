@@ -1,0 +1,46 @@
+services:
+  # Service to build the FAISS index
+  indexing:
+    build: .
+    container_name: ppw-rag-indexing
+    environment:
+      - OPENAI_API_KEY=sk-proj-key
+    volumes:
+      - ./embeddings:/app/embeddings
+      - ./templates.py:/app/templates.py:ro
+    command: python indexing.py
+    profiles:
+      - setup
+
+  # Main API service
+  api:
+    build: .
+    container_name: ppw-rag-api
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=sk-proj-key
+    volumes:
+      - ./embeddings:/app/embeddings:ro
+      - ./logs:/app/logs
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/docs || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  # Optional: CLI interface service
+  cli:
+    build: .
+    container_name: ppw-rag-cli
+    environment:
+      - OPENAI_API_KEY=sk-proj-key
+    volumes:
+      - ./embeddings:/app/embeddings:ro
+    command: python main.py
+    stdin_open: true
+    tty: true
+    profiles:
+      - cli

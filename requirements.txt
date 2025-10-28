@@ -1,0 +1,7 @@
+langchain
+faiss-cpu
+langchain_community
+# sentence-transformers
+langchain_openai
+fastapi
+uvicorn
