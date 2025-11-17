@@ -23,5 +23,13 @@ def query_vectorstore(query:str) -> list[dict]:
 
     return pretty_docs
 
+def file_read():
+    """ Tool for extracting file contents of 'models.json'"""
+    models=None
+    with open('models.json','r',encoding='utf-8') as f:
+        models=json.load(f)
 
-# print(query_vectorstore("create an upscaler workflow."))
+    return models
+
+# if __name__=="__main__":
+#     print(file_read())
