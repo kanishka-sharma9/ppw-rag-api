@@ -1,0 +1,2954 @@
+[
+  {
+    "title": "Elevenlabs Forced Alignment",
+    "type": "audioToText",
+    "description": "Achieves precise audio-text synchronization with word-level timestamps for enhanced media accessibility and production.",
+    "slug": "elevenlabs-forced-alignment"
+  },
+  {
+    "title": "Elevenlabs Audio Isolation",
+    "type": "audioToAudio",
+    "description": "AI model expertly extracts clear speech from noisy audio and video, enhancing professional audio quality.",
+    "slug": "elevenlabs-audio-isolation"
+  },
+  {
+    "title": "Elevenlabs Voice Design",
+    "type": "audioToText",
+    "description": "Generate unique synthetic voices tailored to specific attributes without needing voice samples.",
+    "slug": "elevenlabs-voice-design"
+  },
+  {
+    "title": "Elevenlabs Voice Cloning",
+    "type": "audioToText",
+    "description": "ElevenLabs Voice Cloning creates hyper-realistic voice replicas that express emotion and personality.",
+    "slug": "elevenlabs-voice-clone"
+  },
+  {
+    "title": "Kimi K2 Instruct 0905",
+    "type": "textToText",
+    "description": "Kimi K2 Instruct 0905 excels in deep contextual understanding and complex code generation with an extensive 262K token context window.",
+    "slug": "kimi-k2-instruct-0905"
+  },
+  {
+    "title": "Frame extractor",
+    "type": "videoToImage",
+    "description": "Frame extractor",
+    "slug": "frame-extractor"
+  },
+  {
+    "title": "ClarityAI Creative Upscaler",
+    "type": "imageToImage",
+    "description": "Clarity AI intelligently enhances image resolution, preserving fine details for stunning visual clarity.",
+    "slug": "clarityai-creative-upscaler"
+  },
+  {
+    "title": "ClarityAI Flux Upscaler",
+    "type": "imageToImage",
+    "description": "Clarity AI transforms low-resolution images into stunning high-quality visuals with unmatched detail preservation.",
+    "slug": "clarityai-flux-upscaler"
+  },
+  {
+    "title": "ClarityAI Crystal Upscaler",
+    "type": "imageToImage",
+    "description": "Clarity AI intelligently upscales images up to 200x while enhancing detail and visual quality.",
+    "slug": "clarityai-crystal-upscaler"
+  },
+  {
+    "title": "LTX 2 Fast",
+    "type": "imageToVideo",
+    "description": "LTX-2-Fast is a cutting-edge text-to-video AI model by Lightricks, designed for fast video generation directly from text prompts.",
+    "slug": "ltx-2-fast"
+  },
+  {
+    "title": "LTX 2 Pro",
+    "type": "imageToVideo",
+    "description": "This AI model enhances decision-making by generating actionable insights from complex data sets.",
+    "slug": "ltx-2-pro"
+  },
+  {
+    "title": "Hailuo 2.3 Fast",
+    "type": "imageToVideo",
+    "description": "Transform text and images into professional-quality videos at lightning speed.",
+    "slug": "hailuo-2.3-fast"
+  },
+  {
+    "title": "Hailuo 2.3",
+    "type": "imageToVideo",
+    "description": "Hailuo 2.3 creates hyper-realistic videos from text prompts with fluid character movements and advanced expressive detail.",
+    "slug": "hailuo-2.3"
+  },
+  {
+    "title": "Seedance 1.0 Pro Fast",
+    "type": "imageToVideo",
+    "description": "Seedance 1.0 Pro Fast creates cinematic-quality videos from text and images at unprecedented speed.",
+    "slug": "seedance-1.0-pro-fast"
+  },
+  {
+    "title": "Heygen Video Translate",
+    "type": "videoToVideo",
+    "description": "Transforms videos into multiple languages with natural voice and lip-sync, enhancing global engagement.",
+    "slug": "heygen-video-translate"
+  },
+  {
+    "title": "Multi Video Merge",
+    "type": "videoToVideo",
+    "description": "Multi Video Merge",
+    "slug": "multi-video-merge"
+  },
+  {
+    "title": "FlashVSR",
+    "type": "videoToVideo",
+    "description": "FlashVSR enhances video quality in real-time, processing high-resolution content",
+    "slug": "flashvsr"
+  },
+  {
+    "title": "Qwen Image Edit Plus",
+    "type": "imageToImage",
+    "description": "Qwen Image Edit Plus revolutionizes multi-image editing with precise transformations and facial consistency.",
+    "slug": "qwen-image-edit-plus"
+  },
+  {
+    "title": "Image resizer",
+    "type": "imageToText",
+    "description": "Image resizer",
+    "slug": "image-resizer"
+  },
+  {
+    "title": "Image Converter",
+    "type": "imageToText",
+    "description": "Image Converter",
+    "slug": "image-converter"
+  },
+  {
+    "title": "Video Speed Change",
+    "type": "imageToText",
+    "description": "Video Speed Change",
+    "slug": "video-speed-change"
+  },
+  {
+    "title": "Start & End Frame Extractor",
+    "type": "imageToText",
+    "description": "Start & End Frame Extractor",
+    "slug": "start-end-frame-extractor"
+  },
+  {
+    "title": "Veo 3.1 Fast",
+    "type": "imageToVideo",
+    "description": "Transforms static images into dynamic 1080p videos with synchronized audio and natural motion.",
+    "slug": "veo-3.1-fast"
+  },
+  {
+    "title": "Veo 3.1",
+    "type": "imageToVideo",
+    "description": "Transform static images into dynamic, high-quality videos with synchronized audio and precise creative control.",
+    "slug": "veo-3.1"
+  },
+  {
+    "title": "InfiniteTalk",
+    "type": "imageToVideo",
+    "description": "InfiniteTalk seamlessly synchronizes full-body animations with audio input for immersive and engaging video dubbing.",
+    "slug": "infinite-talk"
+  },
+  {
+    "title": "Claude 4 Sonnet",
+    "type": "imageToText",
+    "description": "Claude 4 excels in advanced coding and multi-step reasoning, transforming complex tasks into manageable solutions.",
+    "slug": "claude-4-sonnet"
+  },
+  {
+    "title": "GPT 5 Nano",
+    "type": "imageToText",
+    "description": "GPT-5 Nano delivers ultra-fast responses for real-time applications, enhancing efficiency in developer tools and AI integration.",
+    "slug": "gpt-5-nano"
+  },
+  {
+    "title": "GPT 5 Mini",
+    "type": "imageToText",
+    "description": "GPT-5 Mini delivers rapid, high-quality AI responses across text, images, and files for efficient applications.",
+    "slug": "gpt-5-mini"
+  },
+  {
+    "title": "Gemini 2.5 Flash",
+    "type": "imageToText",
+    "description": "Gemini 2.5 Flash uniquely combines multimodal processing with transparent reasoning for advanced, real-world applications.",
+    "slug": "gemini-2.5-flash"
+  },
+  {
+    "title": "Gemini 2.5 PRO",
+    "type": "imageToText",
+    "description": "Gemini 2.5 Pro excels at complex multimodal reasoning, seamlessly analyzing diverse data types for advanced problem-solving.",
+    "slug": "gemini-2.5-pro"
+  },
+  {
+    "title": "Pixverse 5 Extend",
+    "type": "imageToVideo",
+    "description": "PixVerse Extend creates seamless, AI-generated video continuations that enhance storytelling and viewer engagement.",
+    "slug": "pixverse-5-extend"
+  },
+  {
+    "title": "Pixverse 5 Transition",
+    "type": "imageToVideo",
+    "description": "PixVerse v5 generates seamless, immersive video transitions that elevate storytelling and visual content creation.",
+    "slug": "pixverse-5-transition"
+  },
+  {
+    "title": "Pixverse 5 Video",
+    "type": "imageToVideo",
+    "description": "PixVerse V5 generates cinematic videos from text and images with stunning realism and precision.",
+    "slug": "pixverse-5-video"
+  },
+  {
+    "title": "OVI Image To Video",
+    "type": "imageToVideo",
+    "description": "Ovi I2V generates synchronized video and audio from text prompts, creating engaging multimedia content effortlessly.",
+    "slug": "ovi-i2v"
+  },
+  {
+    "title": "GPT Image 1 Edit Mini",
+    "type": "imageToImage",
+    "description": "GPT Image 1 Mini generates and edits high-quality images seamlessly from text and visual inputs.",
+    "slug": "gpt-image-1-edit-mini"
+  },
+  {
+    "title": "GPT Image 1 Mini",
+    "type": "textToImage",
+    "description": "GPT Image 1 Mini generates high-quality images from text descriptions, empowering efficient visual content creation.",
+    "slug": "gpt-image-1-mini"
+  },
+  {
+    "title": "Kling V1 Pro AI Avatar",
+    "type": "imageToVideo",
+    "description": "Kwaivgi Kling V1 AI Avatar Pro creates dynamic avatars with synchronized speech and realistic expressions for engaging content.",
+    "slug": "kling-v1-pro-ai-avatar"
+  },
+  {
+    "title": "Kling V1 Standard AI Avatar",
+    "type": "imageToVideo",
+    "description": "Kwaivgi Kling V1 generates lifelike AI avatars with precise lip-sync for engaging multimedia presentations.",
+    "slug": "kling-v1-standard-ai-avatar"
+  },
+  {
+    "title": "Sora 2 Pro",
+    "type": "imageToVideo",
+    "description": "Sora 2 Pro generates cinematic-quality videos from text and images with unmatched realism and detail.",
+    "slug": "sora-2-pro"
+  },
+  {
+    "title": "Video Watermark Remover",
+    "type": "imageToVideo",
+    "description": "Remove watermarks from videos instantly with AI. Upload, process, and download clean videos in just seconds \u2014 no manual editing required.",
+    "slug": "video-watermark-remover"
+  },
+  {
+    "title": "Wan Animate",
+    "type": "imageToVideo",
+    "description": "Wan-Animate seamlessly animates characters and replaces subjects in videos, ensuring fluid realism and environmental consistency.",
+    "slug": "wan-animate"
+  },
+  {
+    "title": "Sora 2",
+    "type": "imageToVideo",
+    "description": "Sora 2 transforms detailed text descriptions into stunning, dynamic videos within seconds.",
+    "slug": "sora-2"
+  },
+  {
+    "title": "Sam V2.1 Hiera Large",
+    "type": "imageToText",
+    "description": "SAM v2, the next-gen segmentation model from Meta AI, revolutionizes computer vision. Building on SAM's success, it excels at accurately segmenting objects in images, offering robust and efficient solutions for various visual contexts.\r\n",
+    "slug": "sam-v21-hiera-large"
+  },
+  {
+    "title": "Segmind Faceswap v4.2",
+    "type": "imageToImage",
+    "description": "Segmind FaceSwap v4 enables fast and precise face or head swapping between images with customizable options for style, output format, and image quality. Designed for creators and designers, it ensures natural-looking results with reproducibility through seed control for consistent outputs.",
+    "slug": "faceswap-v4-skintone"
+  },
+  {
+    "title": "Video Frame Interpolation",
+    "type": "imageToVideo",
+    "description": "FILM synthesizes smooth, high-quality intermediate frames for fluid motion in videos with significant movement.",
+    "slug": "video-frame-interpolation"
+  },
+  {
+    "title": "Claude 4.5 Sonnet",
+    "type": "imageToText",
+    "description": "Claude Sonnet 4.5 empowers developers with advanced coding and reasoning for complex software solutions.",
+    "slug": "claude-4.5-sonnet"
+  },
+  {
+    "title": "Wan 2.5 Image to Video",
+    "type": "imageToVideo",
+    "description": "Wan2.5-Preview creates stunning, high-resolution videos with flawless audio synchronization from multiple inputs.",
+    "slug": "wan-2.5-i2v"
+  },
+  {
+    "title": "Wan 2.5 Text to Video",
+    "type": "textToVideo",
+    "description": "Wan2.5-Preview generates synchronized multimedia content, merging text, image, video, and audio seamlessly.",
+    "slug": "wan-2.5-t2v"
+  },
+  {
+    "title": "Kling 2.5 Turbo",
+    "type": "imageToVideo",
+    "description": "Kling AI 2.5 Turbo generates fluid, cinematic videos from text and images, enhancing content creation and storytelling.",
+    "slug": "kling-2.5-turbo"
+  },
+  {
+    "title": "Load Test",
+    "type": "imageToImage",
+    "description": "Load Test",
+    "slug": "load-test"
+  },
+  {
+    "title": "VeenaMax TTS",
+    "type": "textToAudio",
+    "description": "VeenaMAX transforms text into expressive, real-time speech across multiple Indian languages for seamless communication.",
+    "slug": "veena-max-tts"
+  },
+  {
+    "title": "Bytedance HuMo: Human-Centric Video Generation",
+    "type": "imageToVideo",
+    "description": "HuMo generates high-quality, human-centric videos from text, images, and audio with unparalleled control and precision.",
+    "slug": "bytedance-humo"
+  },
+  {
+    "title": "Higgsfield Speech 2 Video",
+    "type": "imageToVideo",
+    "description": "Transform images and audio into dynamic, lip-synced videos for engaging digital content.",
+    "slug": "higgsfield-speech2video"
+  },
+  {
+    "title": "Seedream 4.0 (4k)",
+    "type": "imageToImage",
+    "description": "Seedream 4.0 generates high-resolution, professional-grade visuals with superior text rendering for impactful design.",
+    "slug": "seedream-4"
+  },
+  {
+    "title": "Bria Increase Video Resolution",
+    "type": "videoToVideo",
+    "description": "Transform your videos with AI-powered upscaling and seamless background removal for professional quality.",
+    "slug": "bria-increase-video-resolution"
+  },
+  {
+    "title": "Bria Remove Video Background",
+    "type": "videoToVideo",
+    "description": "Bria Video AI enhances videos up to 8K while seamlessly removing backgrounds for professional quality content.",
+    "slug": "bria-remove-video-background"
+  },
+  {
+    "title": "Sync.so Lipsync 2 Pro",
+    "type": "videoToVideo",
+    "description": "Lipsync-2-Pro seamlessly synchronizes lips in videos for instant, high-quality multilingual content creation.",
+    "slug": "sync.so-lipsync-2-pro"
+  },
+  {
+    "title": "Video Tryon",
+    "type": "imageToVideo",
+    "description": "Video Tryon is Segmind\u2019s next-generation AI video model for instant virtual try-on, allowing users to visualize any outfit on any person in high-quality, fully-preserved motion up to 50 seconds.",
+    "slug": "video-tryon"
+  },
+  {
+    "title": "Bria Prompt Enhancer",
+    "type": "imageToText",
+    "description": "Bria AI generates high-quality, commercially safe images tailored to diverse creative needs.",
+    "slug": "bria-prompt-enhancer"
+  },
+  {
+    "title": "Bria Mask Generator",
+    "type": "imageToText",
+    "description": "Bria AI Get Masks automatically generates accurate object masks for advanced image editing and enhancement.",
+    "slug": "bria-mask-generator"
+  },
+  {
+    "title": "Higgsfield Text 2 Image Soul",
+    "type": "imageToImage",
+    "description": "SOUL AI transforms text into stunning, customizable visuals with unparalleled style control and precision.",
+    "slug": "higgsfield-text2image-soul"
+  },
+  {
+    "title": "Higgsfield Image 2 Video",
+    "type": "imageToVideo",
+    "description": "Transform static images into dynamic, motion-rich videos with unparalleled control and creative depth.",
+    "slug": "higgsfield-image2video"
+  },
+  {
+    "title": "Nano Banana",
+    "type": "textToImage",
+    "description": "Gemini Image Editor preserves authentic subject identity while enabling seamless image editing and manipulation.",
+    "slug": "nano-banana"
+  },
+  {
+    "title": "Qwen Image Edit Fast",
+    "type": "imageToImage",
+    "description": "Qwen-Image-Edit enables precise bilingual image editing for seamless localization and professional content creation.",
+    "slug": "qwen-image-edit-fast"
+  },
+  {
+    "title": "Qwen Image Fast",
+    "type": "textToImage",
+    "description": "Qwen-Image expertly generates stunning images with complex text integration, especially for Chinese typography.",
+    "slug": "qwen-image-fast"
+  },
+  {
+    "title": "Ideogram Character",
+    "type": "imageToImage",
+    "description": "Achieve perfect character consistency across multiple generations from a single reference image.",
+    "slug": "ideogram-character"
+  },
+  {
+    "title": "Runway Gen4 Aleph",
+    "type": "videoToVideo",
+    "description": "Runway Aleph revolutionizes video editing with intelligent automation for seamless object and environment manipulation.",
+    "slug": "runway-gen4-aleph"
+  },
+  {
+    "title": "Lifestyle Product Shot by Image",
+    "type": "imageToImage",
+    "description": "Transforms ordinary product images into stunning, marketing-ready visuals for eCommerce success.",
+    "slug": "bria-lifestyle-shot-by-image"
+  },
+  {
+    "title": "Bria Lifestyle Product Shot by Text",
+    "type": "imageToImage",
+    "description": "Transform isolated product images into dynamic lifestyle scenes with AI-driven contextual realism.",
+    "slug": "bria-lifestyle-shot-by-text"
+  },
+  {
+    "title": "Bria Product Shadow",
+    "type": "imageToImage",
+    "description": "Bria Product Shadow enhances product images with realistic shadows for professional eCommerce presentations.",
+    "slug": "bria-product-shadow"
+  },
+  {
+    "title": "Bria Product Packshot",
+    "type": "imageToImage",
+    "description": "Transform product photos into professional, market-ready images with intelligent enhancements and background removal.",
+    "slug": "bria-product-packshot"
+  },
+  {
+    "title": "Bria Product Cutout",
+    "type": "imageToImage",
+    "description": "Automates precise product cutouts and background removal for professional eCommerce imagery at scale.",
+    "slug": "bria-product-cutout"
+  },
+  {
+    "title": "Bria Increase Resolution",
+    "type": "imageToImage",
+    "description": "Seamlessly upscale and manipulate images while preserving the highest fidelity and safety standards.",
+    "slug": "bria-increase-resolution"
+  },
+  {
+    "title": "Bria Enhance Image",
+    "type": "imageToImage",
+    "description": "Bria AI creates precise, high-quality image enhancements and manipulations for diverse creative applications.",
+    "slug": "bria-enhance-image"
+  },
+  {
+    "title": "Bria Expand Image",
+    "type": "imageToImage",
+    "description": "Bria Expand enables precise image manipulation and enhancement with generative AI, trained exclusively on licensed data for safe, risk-free commercial use.",
+    "slug": "bria-expand-image"
+  },
+  {
+    "title": "Bria Blur Background",
+    "type": "imageToImage",
+    "description": "Bria AI Image Editing API v2 enables precise and context-aware image manipulation for stunning visual outcomes.",
+    "slug": "bria-blur-background"
+  },
+  {
+    "title": "Bria Erase Foreground",
+    "type": "imageToImage",
+    "description": "Seamlessly removes foreground subjects and regenerates backgrounds for flawless image editing.",
+    "slug": "bria-erase-foreground"
+  },
+  {
+    "title": "Bria Generate Background",
+    "type": "imageToImage",
+    "description": "Transform images through advanced background editing and generative content creation for diverse applications.",
+    "slug": "bria-replace-background"
+  },
+  {
+    "title": "Bria RMBG 2.0",
+    "type": "imageToImage",
+    "description": "Effortlessly extract backgrounds with unmatched precision, powered by models trained exclusively on licensed data for safe and risk-free commercial use. Unlike traditional binary masking, Bria RMBG 2.0 delivers non-binary masks with 256 levels of transparency, ensuring seamless edges and natural blending for diverse creative workflows.",
+    "slug": "bria-remove-background"
+  },
+  {
+    "title": "Bria Generative Fill",
+    "type": "imageToImage",
+    "description": "Bria AI enables precise generative image editing for seamless creative enhancements and transformations.",
+    "slug": "bria-gen-fill"
+  },
+  {
+    "title": "Bria Eraser",
+    "type": "imageToImage",
+    "description": "Bria AI\u2019s Eraser model seamlessly enhances and modifies images with advanced generative capabilities, ensuring flawless visuals. Perfect for refining creative assets, removing distractions, and achieving clean, professional results with minimal effort.",
+    "slug": "bria-eraser"
+  },
+  {
+    "title": "Qwen Image Edit",
+    "type": "imageToImage",
+    "description": "Transform images effortlessly through semantic context and pixel-perfect appearance changes.",
+    "slug": "qwen-image-edit"
+  },
+  {
+    "title": "Bria Reimagine",
+    "type": "imageToImage",
+    "description": "Bria AI Reimagine transforms reference images into detailed, styled visuals with creative flexibility.",
+    "slug": "bria-reimagine"
+  },
+  {
+    "title": "Bria 3.2 Text to Image",
+    "type": "textToImage",
+    "description": "Bria 3.2 AI transforms natural language into stunning visuals for diverse creative applications \u2014 with Base, Fast, and HD modes to match your creative needs.",
+    "slug": "bria-text-to-image"
+  },
+  {
+    "title": "Bria Vector Graphics",
+    "type": "textToImage",
+    "description": "Bria Vision enables high-quality text-to-image and text-to-vector graphic generation for versatile commercial use.",
+    "slug": "bria-text-to-vector-graphics"
+  },
+  {
+    "title": "GPT 5",
+    "type": "imageToText",
+    "description": "GPT-5 automates complex coding tasks with integrated tools for seamless software development and deployment.",
+    "slug": "gpt-5"
+  },
+  {
+    "title": "Qwen Image",
+    "type": "textToImage",
+    "description": "Qwen-Image revolutionizes image generation and editing with seamless multilingual text integration and photorealistic detail.",
+    "slug": "qwen-image"
+  },
+  {
+    "title": "Flux Kontext Finetuned",
+    "type": "imageToImage",
+    "description": "Flux Kontext Finetuned transforms textual descriptions into stunning, high-fidelity images with seamless typography integration.",
+    "slug": "flux-kontext-finetuned"
+  },
+  {
+    "title": "SeedEdit 3.0 i2i",
+    "type": "imageToImage",
+    "description": "SeedEdit 3.0 enables seamless, high-quality image edits through advanced AI-driven techniques.",
+    "slug": "seededit-v3"
+  },
+  {
+    "title": "Qwen2.5-VL 32B Instruct",
+    "type": "imageToText",
+    "description": "Qwen2.5-VL processes text and images seamlessly for advanced multimodal instruction and reasoning.",
+    "slug": "qwen2p5-vl-32b-instruct"
+  },
+  {
+    "title": "Hunyuan3d-2.1",
+    "type": "imageTo3d",
+    "description": "Transform 2D images into photorealistic, high-fidelity 3D assets effortlessly.",
+    "slug": "hunyuan3d-2.1"
+  },
+  {
+    "title": "Flux Krea Dev",
+    "type": "imageToImage",
+    "description": "FLUX.1 Krea generates stunning, photorealistic images with fine-tuned aesthetic control for diverse creative applications.",
+    "slug": "flux-krea-dev"
+  },
+  {
+    "title": "Wan 2.2 Text to Video Fast",
+    "type": "textToVideo",
+    "description": "Wan2.2 transforms text and images into high-quality video clips with cinematic flair.",
+    "slug": "wan-2.2-t2v-fast"
+  },
+  {
+    "title": "Wan 2.2 Image to Video Fast",
+    "type": "imageToVideo",
+    "description": "Transforms simple text prompts into breathtaking cinematic-quality videos in minutes.",
+    "slug": "wan-2.2-i2v-fast"
+  },
+  {
+    "title": "Hailuo 02 Fast",
+    "type": "imageToVideo",
+    "description": "Transform any static image into a captivating, high-quality video clip effortlessly.",
+    "slug": "hailuo-02-fast"
+  },
+  {
+    "title": "Segmind SegFit v1.3",
+    "type": "imageToImage",
+    "description": "SegFit v1.3 enables hyper-realistic virtual try-ons, enhancing online fashion retail experiences without physical photoshoots.",
+    "slug": "segfit-v1.3"
+  },
+  {
+    "title": "Multi Image Kontext Pro",
+    "type": "imageToImage",
+    "description": "Transform text into stunning, professional-grade images with precise editing capabilities.",
+    "slug": "multi-image-kontext-pro"
+  },
+  {
+    "title": "Infinite You",
+    "type": "imageToImage",
+    "description": "InfiniteYou generates high-fidelity portraits preserving identity while aligning with creative text prompts.",
+    "slug": "infinite-you"
+  },
+  {
+    "title": "GPT 4.1",
+    "type": "textToText",
+    "description": "GPT-4.1 API excels in processing and generating complex language tasks at an unprecedented scale.",
+    "slug": "gpt-4.1"
+  },
+  {
+    "title": "Faceswap V3 Multifaceswap",
+    "type": "imageToImage",
+    "description": "Faceswap V3 Multifaceswap enables realistic face swapping in images, preserving lighting and expressions for professional results.",
+    "slug": "faceswap-v3-multifaceswap"
+  },
+  {
+    "title": "Vidu Q1 Reference to Video",
+    "type": "imageToVideo",
+    "description": "Vidu AI reference to video transforms text and images into dynamic, high-quality videos effortlessly.",
+    "slug": "vidu-q1-reference-to-video"
+  },
+  {
+    "title": "Veo 3 Fast",
+    "type": "textToVideo",
+    "description": "Veo 3 Fast rapidly creates high-quality, 8-second videos with synchronized audio for diverse content needs.",
+    "slug": "veo-3-fast"
+  },
+  {
+    "title": "Minimax Hailou 2",
+    "type": "imageToVideo",
+    "description": "Generate breathtaking 1080P cinematic videos from text or images with ultra-realistic motion and physics.",
+    "slug": "minimax-hailuo-2"
+  },
+  {
+    "title": "O4 Mini",
+    "type": "imageToText",
+    "description": "OpenAI o4-mini enhances decision-making by processing text and images with advanced reasoning capabilities.",
+    "slug": "o4-mini"
+  },
+  {
+    "title": "Seedance 1.0 Pro",
+    "type": "imageToVideo",
+    "description": "Seedance Pro transforms text and images into engaging 720p dynamic videos with cinematic storytelling.",
+    "slug": "seedance-pro"
+  },
+  {
+    "title": "Luma Modify Video",
+    "type": "imageToVideo",
+    "description": "Transform videos seamlessly with high-fidelity generative edits while preserving original actor performances.",
+    "slug": "modify-video"
+  },
+  {
+    "title": "Veena TTS",
+    "type": "textToAudio",
+    "description": "Veena transforms text into high-fidelity, expressive speech in Hindi and English for real-time applications.",
+    "slug": "veena-tts"
+  },
+  {
+    "title": "Pixverse Lipsync",
+    "type": "videoToVideo",
+    "description": "PixVerse Lipsync expertly synchronizes lip movements to audio for flawless video content creation.",
+    "slug": "pixverse-lipsync"
+  },
+  {
+    "title": "Chatterbox TTS",
+    "type": "textToAudio",
+    "description": "Chatterbox transforms text into rich, natural speech with adjustable emotional expressiveness for diverse applications.",
+    "slug": "chatterbox-tts"
+  },
+  {
+    "title": "FLUX.1 Kontext [dev]",
+    "type": "imageToImage",
+    "description": "FLUX.1 Kontext [dev] creates coherent and editable images by integrating text and visual cues for iterative design.",
+    "slug": "flux-kontext-dev"
+  },
+  {
+    "title": "Segmind Faceswap v4.3",
+    "type": "imageToImage",
+    "description": "Segmind Faceswap v4.3",
+    "slug": "faceswap-v4.3"
+  },
+  {
+    "title": "Vidu Template",
+    "type": "imageToVideo",
+    "description": "Transform static images into captivating videos using diverse motion templates effortlessly.",
+    "slug": "vidu-template"
+  },
+  {
+    "title": "Seedream 3.0 t2i",
+    "type": "textToImage",
+    "description": "Seedream V3 generates high-resolution, bilingual images in seconds, enhancing creative workflows and marketing effectiveness.",
+    "slug": "seedream-v3-text-to-image"
+  },
+  {
+    "title": "Seedance 1.0 lite t2v",
+    "type": "textToVideo",
+    "description": "Seedance V1 Lite transforms text into high-quality videos, streamlining content creation for diverse applications.",
+    "slug": "seedance-v1-lite-text-to-video"
+  },
+  {
+    "title": "Seedance 1.0 lite i2v",
+    "type": "imageToVideo",
+    "description": "Seedance 1.0 transforms text and images into engaging 720p dynamic videos with cinematic storytelling.",
+    "slug": "seedance-v1-lite-image-to-video"
+  },
+  {
+    "title": "PPV6",
+    "type": "imageToImage",
+    "description": "PPv6 transforms plain or existing product images into visually rich, photorealistic scenes. Whether starting from a white background or enhancing existing settings, it works seamlessly across furniture, home decor, and consumer goods.",
+    "slug": "ppv6"
+  },
+  {
+    "title": "Segmind SegFit v1.2",
+    "type": "imageToImage",
+    "description": "SegFit v1.2 creates hyper-realistic virtual try-on images, transforming fashion retail engagement and conversion rates.",
+    "slug": "segfit-v1.2"
+  },
+  {
+    "title": "Multi Image Kontext Max",
+    "type": "imageToImage",
+    "description": "FLUX.1 Kontext [max] creates stunning, photorealistic images from text prompts and input images seamlessly.",
+    "slug": "multi-image-kontext-max"
+  },
+  {
+    "title": "Google Veo 3",
+    "type": "textToVideo",
+    "description": "Veo 3 revolutionizes video creation with advanced text-to-video generation and realistic audio synthesis for cinematic content.",
+    "slug": "veo-3"
+  },
+  {
+    "title": "Kling 2.1 AI Video Generator",
+    "type": "imageToVideo",
+    "description": "Kling 2.1 offers hyper-realistic video generation with improved motion, sharper 1080p visuals, and instant restyling capabilities. Its cost-effective pricing and faster rendering times make it a game-changer for creators seeking cinematic-quality AI videos.",
+    "slug": "kling-2.1"
+  },
+  {
+    "title": "Kling 1.6 Elements",
+    "type": "imageToVideo",
+    "description": "Kling 1.6 Elements transforms high-quality reference images into consistent, dynamic AI-driven videos with stunning realism.",
+    "slug": "kling-1.6-elements"
+  },
+  {
+    "title": "BG Remover",
+    "type": "imageToImage",
+    "description": "Segmind's BG Remover automates precise background removal, enhancing image quality and workflow efficiency across industries.",
+    "slug": "bg-remover"
+  },
+  {
+    "title": "Flux Kontext Max",
+    "type": "imageToImage",
+    "description": "FLUX.1 Kontext [max] transforms textual descriptions into stunning, high-fidelity images with seamless typography integration.",
+    "slug": "flux-kontext-max"
+  },
+  {
+    "title": "Flux Kontext Pro",
+    "type": "imageToImage",
+    "description": "FLUX.1 Kontext Pro transforms text prompts into high-quality, customized images with remarkable efficiency and precision.",
+    "slug": "flux-kontext-pro"
+  },
+  {
+    "title": "Future You",
+    "type": "imageToImage",
+    "description": "Future You",
+    "slug": "future-you"
+  },
+  {
+    "title": "dream-o",
+    "type": "imageToImage",
+    "description": "\ud83d\udc57Bytedance's DreamO: unified image customization model (IP, ID, Style, Try-On, etc.)\ud83e\udde3",
+    "slug": "dream-o"
+  },
+  {
+    "title": "Interior Cost estimator",
+    "type": "imageToText",
+    "description": "Interior Cost estimator",
+    "slug": "product-identifier"
+  },
+  {
+    "title": "Lyria 2",
+    "type": "textToAudio",
+    "description": "Lyria 2 by Google DeepMind is an advanced model that generates high-fidelity 48kHz stereo instrumental music from text prompts or lyrics, offering precise control over tempo, key, mood, and structure. ",
+    "slug": "lyria-2"
+  },
+  {
+    "title": "Runway Gen 4 Image",
+    "type": "imageToImage",
+    "description": "Runway's Gen-4 Image API enables precise, multimodal image generation for innovative creative and technical applications.",
+    "slug": "runway-gen4-image"
+  },
+  {
+    "title": "imageToImage",
+    "type": "imageToImage",
+    "description": "imageToImage",
+    "slug": "superimpose-v2.1"
+  },
+  {
+    "title": "Segmind FaceSwap Comic v1",
+    "type": "imageToImage",
+    "description": "FaceSwap Comic v1 is an AI-powered face swapping model designed to blend real faces into illustrated or cartoon-style images while preserving the target\u2019s artistic look. Ideal for personalized children\u2019s storybooks and stylized content, it offers fine control over facial expression, realism, and stylistic adaptation.",
+    "slug": "faceswap-comic"
+  },
+  {
+    "title": "Pixverse 4.5 Video",
+    "type": "imageToVideo",
+    "description": "Pixverse 4.5 transforms static images and text into dynamic, engaging videos for captivating social media content.",
+    "slug": "pixverse-4.5-video"
+  },
+  {
+    "title": "Imagen 4",
+    "type": "textToImage",
+    "description": "Imagen 4 is Google\u2019s most advanced AI image generation model, creating detailed, photorealistic or abstract images from text prompts. It excels at fine details and accurate text, perfect for professional visuals like posters and presentations.",
+    "slug": "imagen-4"
+  },
+  {
+    "title": "Pixverse 4.5 Transition",
+    "type": "imageToVideo",
+    "description": "PixVerse 4.5 transforms still images into dynamic, captivating videos with seamless transitions.",
+    "slug": "pixverse-4.5-transition"
+  },
+  {
+    "title": "Pixverse Transition",
+    "type": "imageToVideo",
+    "description": "PixVerse V4 transforms static images and text into dynamic, visually stunning videos for creators across various industries.",
+    "slug": "pixverse-transition"
+  },
+  {
+    "title": "Caricature Style",
+    "type": "imageToImage",
+    "description": "Transform everyday photos into lively, whimsical caricature illustrations that highlight individual features with playful exaggeration.",
+    "slug": "caricature-style"
+  },
+  {
+    "title": "Pixverse 4.5 Text to Video",
+    "type": "imageToVideo",
+    "description": "Pixverse 4.5 transforms text and images into dynamic, captivating videos, enhancing creativity and engagement effortlessly.",
+    "slug": "pixverse-4.5-text2video"
+  },
+  {
+    "title": "Pixverse 4.5 Image to Video",
+    "type": "imageToVideo",
+    "description": "Pixverse 4.5 transforms static images and text into dynamic, engaging videos for captivating social media content.",
+    "slug": "pixverse-4.5-image2video"
+  },
+  {
+    "title": "Font Sheet Generator",
+    "type": "imageToImage",
+    "description": "Transforms images into unique, custom font sets in minutes, revolutionizing typography design.",
+    "slug": "font-sheet-generator"
+  },
+  {
+    "title": "Pixverse Effects",
+    "type": "imageToVideo",
+    "description": "Pixverse Effects",
+    "slug": "pixverse-effects"
+  },
+  {
+    "title": "Pixverse 4.5 Effects",
+    "type": "imageToVideo",
+    "description": "PixVerse 4.5 transforms photos and text into stunning animated videos for impactful storytelling and marketing.",
+    "slug": "pixverse-4.5-effects"
+  },
+  {
+    "title": "Segmind Relighting V2",
+    "type": "imageToImage",
+    "description": "Transform images with customizable, photorealistic lighting for unparalleled visual creativity and authenticity.",
+    "slug": "segmind-relighting-v2"
+  },
+  {
+    "title": "sonic",
+    "type": "imageToVideo",
+    "description": "Sonic AI transforms audio into emotionally-rich, expressive animated portraits for immersive visual storytelling.",
+    "slug": "sonic"
+  },
+  {
+    "title": "Ace Step Music",
+    "type": "textToAudio",
+    "description": "ACE-Step generates high-quality music rapidly, enhancing the creative process for developers and artists worldwide.",
+    "slug": "ace-step-music"
+  },
+  {
+    "title": "Chroma ",
+    "type": "textToImage",
+    "description": "Chroma is an open-source, 8.9B parameter text-to-image model (based on FLUX.1-schnell) designed for diverse and uncensored content generation, including anime, furry art, and photography.\r\n",
+    "slug": "chroma"
+  },
+  {
+    "title": "Ideogram 3 Reframe",
+    "type": "imageToImage",
+    "description": "Ideogram 3.0's Reframe effortlessly adapts images to diverse formats, enhancing visual content creation for any platform.",
+    "slug": "ideogram-3-reframe"
+  },
+  {
+    "title": "Ideogram 3 Replace Background",
+    "type": "imageToImage",
+    "description": "Effortlessly replace backgrounds in images, enhancing visual storytelling and creativity with precision and speed.",
+    "slug": "ideogram-3-replace-background"
+  },
+  {
+    "title": "Ideogram 3 Edit",
+    "type": "imageToImage",
+    "description": "Ideogram 3 Edit",
+    "slug": "ideogram-3-edit"
+  },
+  {
+    "title": "Ideogram 3 Remix",
+    "type": "imageToImage",
+    "description": "Ideogram 3 Remix enables versatile image transformation, enhancing creativity through customizable design iterations.",
+    "slug": "ideogram-3-remix"
+  },
+  {
+    "title": "Ideogram 3.0",
+    "type": "textToImage",
+    "description": "Ideogram 3.0 revolutionizes content creation with photorealistic text-to-image generation and diverse aesthetic styles.",
+    "slug": "ideogram-3"
+  },
+  {
+    "title": "Nomos Image Upscaler 4k",
+    "type": "imageToImage",
+    "description": "This upscaling model is ideal for enhancing amateur to professional photos, excelling with subjects like cats, hair, and party scenes. It handles both small (as low as 300px) and large images well, delivering sharp, clear results even when significantly resized.",
+    "slug": "nomos-upscaler"
+  },
+  {
+    "title": "Skin Contrast Upscaler",
+    "type": "imageToImage",
+    "description": "Enhances skin detail in images while preserving background quality for professional photography and art.",
+    "slug": "skin-contrast-upscaler"
+  },
+  {
+    "title": "Kling dizzydizzy",
+    "type": "imageToVideo",
+    "description": "Kling DizzyDizzy transforms static content into dynamic, high-resolution videos, enhancing engagement and storytelling for creators.",
+    "slug": "kling-dizzydizzy"
+  },
+  {
+    "title": "Kling bloombloom",
+    "type": "imageToVideo",
+    "description": "Kling AI transforms text and images into dynamic, high-quality video content with realistic motion and sound.",
+    "slug": "kling-bloombloom"
+  },
+  {
+    "title": "Kling 2",
+    "type": "imageToVideo",
+    "description": "Kling 2.0 is an advanced AI video generator (5 and 10 seconds) that creates cinematic, dynamic videos from text or images with lifelike motion and precise prompt control at 720p resolutions.",
+    "slug": "kling-2"
+  },
+  {
+    "title": "Supir Photo-Realistic Image Restoration",
+    "type": "imageToImage",
+    "description": "SUPIR restores and enhances images to stunning, photo-realistic quality with advanced AI techniques.",
+    "slug": "supir"
+  },
+  {
+    "title": "Topaz Labs Image Upscale",
+    "type": "imageToImage",
+    "description": "Topaz Labs image upscale is an industry-leading AI photo upscaler designed to increase the resolution of photos while preserving and enhancing fine details such as sharpness, and textures.",
+    "slug": "topaz-image-upscale"
+  },
+  {
+    "title": "Topaz Labs Video Upscale",
+    "type": "videoToVideo",
+    "description": "Topaz Video AI upscales, enhances, denoises, stabilizes, and increases frame rates in video footage, transforming low-quality or standard-definition videos into ultra-sharp, high-resolution cinematic outputs up to 4k and 120FPS. ",
+    "slug": "topaz-video-upscale"
+  },
+  {
+    "title": "Segfit Fast",
+    "type": "imageToImage",
+    "description": "Segfit Fast",
+    "slug": "segfit-fast"
+  },
+  {
+    "title": "Dia (Text to Speech)",
+    "type": "textToAudio",
+    "description": "Dia by Nari Labs is an advanced open-weights TTS model that brings scripts to life with natural speech, emotions, and nonverbal cues. Easily control tone, voice, and delivery. Great alternative to ElevenLabs.",
+    "slug": "dia"
+  },
+  {
+    "title": "GPT Image 1 Edit",
+    "type": "imageToImage",
+    "description": "Edit and compose images using natural language with GPT Image 1 Edit, OpenAI\u2019s powerful inpainting and multi-reference editing model. Perfect for marketing visuals, product updates, and creative asset generation.",
+    "slug": "gpt-image-1-edit"
+  },
+  {
+    "title": "GPT Image 1",
+    "type": "textToImage",
+    "description": "Create high-quality AI-generated images from text prompts using OpenAI's GPT Image 1 model. Ideal for product design, content creation, and rapid visual prototyping at scale.",
+    "slug": "gpt-image-1"
+  },
+  {
+    "title": "Video Slicer H",
+    "type": "videoToVideo",
+    "description": "Video Slicer Heimdall",
+    "slug": "video-slicer-heimdall"
+  },
+  {
+    "title": "Video Slicer",
+    "type": "videoToVideo",
+    "description": "Video Slicer",
+    "slug": "video-slicer"
+  },
+  {
+    "title": "HiDream-I1 (Fast)",
+    "type": "imageToImage",
+    "description": "HiDream-I1 is a next-generation, open-source image generative foundation model designed for text-to-image synthesis, especially for rendering text.",
+    "slug": "hidream-l1-fast"
+  },
+  {
+    "title": "Segmind SceneCraft v0.1",
+    "type": "imageToImage",
+    "description": "SceneCraft transforms plain or existing product images into visually rich, photorealistic scenes. Whether starting from a white background or enhancing existing settings, it works seamlessly across furniture, home decor, and consumer goods.",
+    "slug": "segmind-scenecraft-v01"
+  },
+  {
+    "title": "Google Translate",
+    "type": "imageToText",
+    "description": "Translate effortlessly with the powerful Google Translation AI model.",
+    "slug": "google-translate"
+  },
+  {
+    "title": "ChatGPT 4.5",
+    "type": "textToText",
+    "description": "ChatGPT-4.5 by OpenAI, is a groundbreaking AI model designed to tackle complex problems with unprecedented reasoning abilities. This was deprecated in July 2025, and the recommended replacement model to use is gpt-4.1",
+    "slug": "gpt-4.5-preview"
+  },
+  {
+    "title": "Segmind SegFit v1.1",
+    "type": "imageToImage",
+    "description": "Segmind's Fashion and Immersive Try-on model. SegFIT offers effortless AI virtual try-on from just a product image. No models needed! Boost engagement & conversions with this flexible and fast try-on model.",
+    "slug": "segfit-v1.1"
+  },
+  {
+    "title": "Runway Gen 4 Turbo",
+    "type": "imageToVideo",
+    "description": "Generate videos faster and cheaper with Runway Gen-4 Turbo! Create high-quality text, image, and combined video generation for rapid content creation.",
+    "slug": "runway-gen4-turbo"
+  },
+  {
+    "title": "Product Photography v5.1",
+    "type": "imageToImage",
+    "description": "Product Photography v5.1",
+    "slug": "lowes-ppv5-on-prem-v1"
+  },
+  {
+    "title": "Product Photography V4.1",
+    "type": "imageToImage",
+    "description": "Product Photography V4.1",
+    "slug": "lowes-ppv4-on-prem-v1"
+  },
+  {
+    "title": "Pixverse Kiss Me AI",
+    "type": "imageToVideo",
+    "description": "Pixverse Kiss Me AI",
+    "slug": "pixverse-kiss-me-ai"
+  },
+  {
+    "title": "Pixverse Kiss",
+    "type": "imageToVideo",
+    "description": "Pixverse Kiss",
+    "slug": "pixverse-kiss"
+  },
+  {
+    "title": "Kling fuzzyfuzzy",
+    "type": "imageToVideo",
+    "description": "Transform your photos instantly into adorable, plush-toy-like visuals with Kling fuzzyfuzzy effect.",
+    "slug": "kling-fuzzyfuzzy"
+  },
+  {
+    "title": "Kling Heart Gesture",
+    "type": "imageToVideo",
+    "description": "Express affection visually with Kling AI's heart gesture effect! Input two portraits and instantly create heartwarming videos featuring a dynamic heart gesture.",
+    "slug": "kling-heart-gesture"
+  },
+  {
+    "title": "Kling Expansion",
+    "type": "imageToVideo",
+    "description": "Unleash dynamic visuals with Kling Expansion! Effortlessly inflate and stretch elements for surreal and captivating effects.",
+    "slug": "kling-expansion"
+  },
+  {
+    "title": "Kling Hug",
+    "type": "imageToVideo",
+    "description": "Create heartwarming videos instantly with Kling hug effect! Generate tender embracing animations.",
+    "slug": "kling-hug"
+  },
+  {
+    "title": "Kling Squish",
+    "type": "imageToVideo",
+    "description": "Transform your visuals with Kling AI squish effect! Easily compress and distort images/videos for playful, exaggerated effects.",
+    "slug": "kling-squish"
+  },
+  {
+    "title": "Kling Kiss",
+    "type": "imageToVideo",
+    "description": "Create a heartfelt video in seconds with Kling kiss effect! Input two portraits and instantly generate a kissing animation.",
+    "slug": "kling-kiss"
+  },
+  {
+    "title": "Llama 4 Scout Instruct Basic",
+    "type": "imageToText",
+    "description": "Unlock powerful multimodal AI with Llama 4 Scout basic, a 17 billion active parameters model offering leading text & image understanding.",
+    "slug": "llama4-scout-instruct-basic"
+  },
+  {
+    "title": "Llama 4 Maverick Instruct Basic",
+    "type": "imageToText",
+    "description": "Llama 4 Maverick Instruct Basic is a 400B parameter powerhouse with 128 experts for unparalleled text and image understanding.",
+    "slug": "llama4-maverick-instruct-basic"
+  },
+  {
+    "title": "Warmth of Jesus",
+    "type": "imageToVideo",
+    "description": "Experience the viral \"Warmth of Jesus\" effect on PixVerse! Transform your images into heartwarming videos of Jesus embracing people.",
+    "slug": "warmth-of-jesus"
+  },
+  {
+    "title": "Muscle Surge",
+    "type": "imageToVideo",
+    "description": "Instantly add muscle and strength to your videos with Pixverse Muscle Surge effect!",
+    "slug": "muscle-surge"
+  },
+  {
+    "title": "Pixverse Image to Video",
+    "type": "imageToVideo",
+    "description": "Animate your photos effortlessly with Pixverse Image to Video AI! Upload, add motion prompts and styles.",
+    "slug": "pixverse-image2video"
+  },
+  {
+    "title": "Pixverse Text to Video",
+    "type": "textToVideo",
+    "description": "Effortlessly create captivating videos from text with Pixverse text to video AI! Customize style, duration, and more.",
+    "slug": "pixverse-text2video"
+  },
+  {
+    "title": "mirage-ghibli",
+    "type": "imageToImage",
+    "description": "Ghiblify any image, 10x cheaper/faster than GPT 4o",
+    "slug": "mirage-ghibli"
+  },
+  {
+    "title": "Gemini Image Edit",
+    "type": "imageToImage",
+    "description": "Gemini Image Edit",
+    "slug": "gemini-image-edit"
+  },
+  {
+    "title": "Segment image with language",
+    "type": "imageToImage",
+    "description": "Segment Anything with prompts",
+    "slug": "segment-image-with-language"
+  },
+  {
+    "title": "Flux Dev Redux Finetuned",
+    "type": "imageToImage",
+    "description": "flux-dev-redux-finetuned",
+    "slug": "flux-dev-redux-finetuned"
+  },
+  {
+    "title": "Flux Dev Controlnet Finetuned",
+    "type": "imageToImage",
+    "description": "flux-dev-controlnet-finetuned",
+    "slug": "flux-dev-controlnet-finetuned"
+  },
+  {
+    "title": "Flux Dev Fill Finetuned",
+    "type": "imageToImage",
+    "description": "flux-dev-fill-finetuned",
+    "slug": "flux-dev-fill-finetuned"
+  },
+  {
+    "title": "Google Veo 2 Image To Video",
+    "type": "imageToVideo",
+    "description": "Discover Google Veo 2, an AI-powered image-to-video model with 4K resolution, realistic motion, and cinematic effects for creators and developers.",
+    "slug": "veo-2-image2video"
+  },
+  {
+    "title": "Segmind Relighting",
+    "type": "imageToImage",
+    "description": "Prompts to auto-magically relight your images.",
+    "slug": "segmind-relighting"
+  },
+  {
+    "title": "Studio Ghibli Style",
+    "type": "textToImage",
+    "description": "Transform your photos into enchanting Studio Ghibli style masterpieces.",
+    "slug": "studio-ghibli-style"
+  },
+  {
+    "title": "Juggernaut Lightning Flux",
+    "type": "textToImage",
+    "description": " Juggernaut Lightning Flux: Blazing fast (<300ms!) & powerful inference with enhanced visuals.",
+    "slug": "juggernaut-lightning-flux"
+  },
+  {
+    "title": "Juggernaut Pro Flux",
+    "type": "textToImage",
+    "description": "Juggernaut Pro FLUX: Create stunningly realistic AI images with unprecedented detail and sharpness.",
+    "slug": "juggernaut-pro-flux"
+  },
+  {
+    "title": "Segmind SegSwap v0.1",
+    "type": "imageToImage",
+    "description": "Swap Objects Instantly. The Segmind SegSwap v0.1 model enables dynamic and precise image editing by allowing users to remove, replace, or add objects and transfer patterns seamlessly within images. ",
+    "slug": "seg-swap"
+  },
+  {
+    "title": "Minimax Music-01",
+    "type": "textToAudio",
+    "description": "Generate up to 60 seconds of music with both accompaniment and vocals in a single pass, with vocals from lyrics and a reference track. ",
+    "slug": "minimax-music-01"
+  },
+  {
+    "title": "3B Orpheus TTS (0.1)",
+    "type": "textToAudio",
+    "description": "Orpheus TTS is an open-source text-to-speech (TTS) system powered by the Llama 3B language model, designed for high-quality and customizable speech synthesis.",
+    "slug": "orpheus-3b-0.1"
+  },
+  {
+    "title": "Video Loop",
+    "type": "videoToVideo",
+    "description": "Effortlessly loop videos for engaging social media & storytelling with our Video Loop.",
+    "slug": "video-loop"
+  },
+  {
+    "title": "faceshots",
+    "type": "imageToImage",
+    "description": "One shot portrait maker.",
+    "slug": "faceshots"
+  },
+  {
+    "title": "Segmind Faceswap v4",
+    "type": "imageToImage",
+    "description": "Segmind FaceSwap v4 enables fast and precise face or head swapping between images with customizable options for style, output format, and image quality. Designed for creators and designers, it ensures natural-looking results with reproducibility through seed control for consistent outputs.",
+    "slug": "faceswap-v4"
+  },
+  {
+    "title": "Hunyuan-3d 2mv",
+    "type": "imageTo3d",
+    "description": "Hunyuan3D-2mv is finetuned from Hunyuan3D-2 to support multiview controlled shape generation.",
+    "slug": "hunyuan3d-2mv"
+  },
+  {
+    "title": "HotshotXL",
+    "type": "imageToImage",
+    "description": "A text-to-GIF model that works on Stable Diffusion XL.",
+    "slug": "hotshot-xl"
+  },
+  {
+    "title": "Gemini 2 Flash",
+    "type": "imageToText",
+    "description": "With Gemini 2 Flash, create consistent visuals, edit images conversationally, and render text accurately.",
+    "slug": "gemini-2-flash-image-generation"
+  },
+  {
+    "title": "Luma Ray flash 2 (720p)",
+    "type": "imageToVideo",
+    "description": "Generate stunning 720p videos from text with the Luma ray-flash-2-720p model. Faster & cheaper than Ray 2, offering realistic motion & detail. ",
+    "slug": "ray-flash-2-720p"
+  },
+  {
+    "title": "Wan Video Effects",
+    "type": "imageToVideo",
+    "description": "Transform your videos with diverse video effects. Start creating captivating videos today.",
+    "slug": "video-effects"
+  },
+  {
+    "title": "Google Veo 2",
+    "type": "textToVideo",
+    "description": "Create stunning, realistic videos with Veo 2, Google's state-of-the-art AI video generation model. Experience enhanced quality & cinematic control.",
+    "slug": "veo-2"
+  },
+  {
+    "title": "Minimax-image-01",
+    "type": "imageToImage",
+    "description": "Generate high-fidelity images from text with precise control & stunning quality with Minimax Image-01.",
+    "slug": "image-01"
+  },
+  {
+    "title": "Elevenlabs Transcript",
+    "type": "audioToText",
+    "description": "Experience unmatched accuracy with ElevenLabs Transcript, the leading model  for AI speech-to-text.",
+    "slug": "eleven-labs-transcript"
+  },
+  {
+    "title": "Ideogram Describe",
+    "type": "imageToText",
+    "description": "Ideogram describe can effortlessly generate detailed prompts from images. Perfect for refining creations or replicating styles.",
+    "slug": "ideogram-describe"
+  },
+  {
+    "title": "Ideogram Edit",
+    "type": "imageToImage",
+    "description": "Edit your images effortlessly with Ideogram! Use masks and prompts to guide your edits precisely.",
+    "slug": "ideogram-edit"
+  },
+  {
+    "title": "Ideogram Turbo Edit",
+    "type": "imageToImage",
+    "description": "Edit your images effortlessly with Ideogram Turbo Edit! Use masks and prompts to guide your edits precisely and fast.",
+    "slug": "ideogram-turbo-edit"
+  },
+  {
+    "title": "Ideogram Reframe",
+    "type": "imageToImage",
+    "description": "Transform your images with Ideogram Reframe! Easily reframe square images to your chosen resolution.",
+    "slug": "ideogram-reframe"
+  },
+  {
+    "title": "Ideogram Upscale",
+    "type": "imageToImage",
+    "description": "Upscale your images with Ideogram! Enlarge resolution, enhance details, and maintain optimal sharpness.",
+    "slug": "ideogram-upscale"
+  },
+  {
+    "title": "Ideogram 2a Image to Image",
+    "type": "imageToImage",
+    "description": "Ideogram Image to Image: Transform your images with ease! Enhance, modify, or create entirely new visuals using advanced AI. Perfect for artists, designers, and anyone seeking creative inspiration.",
+    "slug": "ideogram-2a-img-2-img"
+  },
+  {
+    "title": "Ideogram 2a Text To Image",
+    "type": "textToImage",
+    "description": "Create captivating designs, realistic images & innovative logos with Ideogram 2a text-to-image.",
+    "slug": "ideogram-2a-txt-2-img"
+  },
+  {
+    "title": "Ideogram Turbo Text To Image",
+    "type": "textToImage",
+    "description": "Create stunning images in seconds with Ideogram Turbo Text to Image. Fast AI model for quick ideation & text rendering.",
+    "slug": "ideogram-turbo-txt-2-img"
+  },
+  {
+    "title": "Ideogram Turbo Image To Image",
+    "type": "imageToImage",
+    "description": "Transform images instantly with Ideogram Turbo Image to Image! Fast AI for quick edits & creative remixes.",
+    "slug": "ideogram-turbo-img-2-img"
+  },
+  {
+    "title": "2D Floor Plan to 360\u00b0 ",
+    "type": "imageToImage",
+    "description": "2D Floor Plan to 360\u00b0 ",
+    "slug": "image360"
+  },
+  {
+    "title": "SegFIT: Segmind Fashion and Immersive Try-on",
+    "type": "imageToImage",
+    "description": "SegFIT by Segmind is a cutting-edge virtual try-on (VTON) model that enables ultra-realistic clothing visualization on custom fashion models. ",
+    "slug": "segfit"
+  },
+  {
+    "title": "Product Photography v5.1",
+    "type": "imageToImage",
+    "description": "Product Photography v5.1",
+    "slug": "product-photography-v5-1"
+  },
+  {
+    "title": "Product Photography V4.1",
+    "type": "imageToImage",
+    "description": "Product Photography V4.1",
+    "slug": "product-photography-v4-1"
+  },
+  {
+    "title": "Flux Fill Dev",
+    "type": "imageToImage",
+    "description": "Open-weight inpainting model for editing and extending images. Guidance-distilled from FLUX.1 Fill Dev",
+    "slug": "flux-fill-dev-fastcode"
+  },
+  {
+    "title": "Grok 2 Vision",
+    "type": "imageToText",
+    "description": "Grok-2, xAI's latest language model with vision understanding.",
+    "slug": "grok-2-vision"
+  },
+  {
+    "title": "Grok 2",
+    "type": "textToText",
+    "description": "Grok-2, xAI's latest language model, boasts superior reasoning, coding, and chat capabilities, outperforming many popular LLMs.",
+    "slug": "grok-2"
+  },
+  {
+    "title": "Wan_2.1 Text to Video",
+    "type": "textToVideo",
+    "description": "Create visually impressive and feature varied, lifelike motion videos with Wan2.1 using text prompts.",
+    "slug": "wan2.1-t2v"
+  },
+  {
+    "title": "Wan 2.1 480p image to video",
+    "type": "imageToVideo",
+    "description": "Create high-quality 480p videos with excellent visual quality and a broad spectrum of motion from static images.",
+    "slug": "wan2.1-i2v-480p"
+  },
+  {
+    "title": "Wan 2.1 720p image to video",
+    "type": "imageToVideo",
+    "description": "Create high-quality 720p videos with excellent visual quality and a broad spectrum of motion from static images.",
+    "slug": "wan2.1-i2v-720p"
+  },
+  {
+    "title": "PPV5 with Clarity Upscale",
+    "type": "imageToImage",
+    "description": "PPV5 with Clarity Upscale",
+    "slug": "ppv5-cu"
+  },
+  {
+    "title": "PPV4 with Clarity Upscale",
+    "type": "imageToImage",
+    "description": "PPV4 with Clarity Upscale",
+    "slug": "ppv4-cu"
+  },
+  {
+    "title": "Claude 3.7 Sonnet",
+    "type": "imageToText",
+    "description": "Claude 3.7 Sonnet is a large language model (LLM) launched by Anthropic AI. It is considered state-of-the-art, outperforming previous versions of Claude and competing models in a variety of tasks",
+    "slug": "claude-3.7-sonnet"
+  },
+  {
+    "title": "Pattern Overlay",
+    "type": "imageToImage",
+    "description": "Pattern Overlay",
+    "slug": "pattern-overlay"
+  },
+  {
+    "title": "Segmind Beyond: Outpaint with Ease",
+    "type": "imageToImage",
+    "description": "Effortlessly expand your visuals with AI Image Extend. Intelligently add pixels to any side of your image.",
+    "slug": "seg-beyond"
+  },
+  {
+    "title": "Luma Ray Image to Video",
+    "type": "imageToVideo",
+    "description": "With Luma's Ray2 image-to-video, transform your static images into cinematic dynamic videos.",
+    "slug": "luma-ray-img-2-video"
+  },
+  {
+    "title": "Minimax AI Director",
+    "type": "textToVideo",
+    "description": "Minimax video-01-director: Create high-quality videos with control camera movements precisely using text prompts.",
+    "slug": "minimax-ai-director"
+  },
+  {
+    "title": "Luma Ray Text to Video",
+    "type": "textToVideo",
+    "description": "Luma Ray2 text-to-video creates realistic, coherent videos from your text prompts.",
+    "slug": "luma-ray-txt-2-video"
+  },
+  {
+    "title": "Imagen 3",
+    "type": "textToImage",
+    "description": "Imagen 3 is Google DeepMind's highest quality text-to-image model. Generates detailed images with enhanced lighting, diverse styles, and improved text rendering.",
+    "slug": "imagen"
+  },
+  {
+    "title": "Flux Pro Canny Finetuned",
+    "type": "imageToImage",
+    "description": "Professional edge-guided image generation. Control structure and composition using Canny edge detection",
+    "slug": "flux-pro-canny-finetuned"
+  },
+  {
+    "title": "Flux Pro Fill Finetuned",
+    "type": "imageToImage",
+    "description": "Professional inpainting and outpainting model with state-of-the-art performance. Edit or extend images with natural, seamless results.",
+    "slug": "flux-pro-fill-finetuned"
+  },
+  {
+    "title": "Flux Pro Finetuned",
+    "type": "imageToImage",
+    "description": "State-of-the-art image generation with top of the line prompt following, visual quality, image detail and output diversity.",
+    "slug": "flux-pro-finetuned"
+  },
+  {
+    "title": "Flux Pro 1.1 Ultra Finetuned",
+    "type": "imageToImage",
+    "description": "Flux 1.1 Pro Ultra: Generate stunning, high-resolution images in seconds. AI-powered image generation at its finest.",
+    "slug": "flux-pro-1.1-ultra-finetuned"
+  },
+  {
+    "title": "Flux Pro Depth Finetuned",
+    "type": "imageToImage",
+    "description": "Professional depth-aware image generation. Edit images while preserving spatial relationships.",
+    "slug": "flux-pro-depth-finetuned"
+  },
+  {
+    "title": "Qwen2 VL 72B Instruct",
+    "type": "imageToText",
+    "description": "Qwen2-VL-72B-Instruct is a state-of-the-art multimodal model excelling in image and video understanding, with advanced capabilities for text-based interaction.",
+    "slug": "qwen2-vl-72b-instruct"
+  },
+  {
+    "title": "Llama 3.2 90B Vision Instruct",
+    "type": "imageToText",
+    "description": "Experience the cutting edge of AI with Llama 3.2-90B Vision-Instruct. This 90B parameter multimodal LLM excels at image understanding, reasoning, captioning, and more.",
+    "slug": "llama-v3p2-90b-vision-instruct"
+  },
+  {
+    "title": "Llama 3.2 11B Vision Instruct",
+    "type": "imageToText",
+    "description": "Instruction-tuned image reasoning model from Meta with 11B parameters. Optimized for visual recognition, image reasoning, captioning, and answering general questions about an image. The model can understand visual data, such as charts and graphs and also bridge the gap between vision and language by generating text to describe images details.",
+    "slug": "llama-v3p2-11b-vision-instruct"
+  },
+  {
+    "title": "Color Correct",
+    "type": "imageToImage",
+    "description": "Color Correct",
+    "slug": "color-correct"
+  },
+  {
+    "title": "Hunyuan3D-2",
+    "type": "imageTo3d",
+    "description": "Hunyuan3D 2.0 enables the creation of high-quality 3D models with intricate details. Produce assets that are visually appealing and suitable for professional use.",
+    "slug": "hunyuan-3d-2"
+  },
+  {
+    "title": "AI Face Swap (image and video)",
+    "type": "imageToVideo",
+    "description": "AI Face Swap: Effortlessly replace faces online. Fine-tune swaps with advanced controls for age, gender, and resolution.",
+    "slug": "ai-face-swap"
+  },
+  {
+    "title": "QWEN2-VL-7B-Instruct",
+    "type": "imageToText",
+    "description": "The Qwen2-VL-7B-Instruct is a cutting-edge vision-language model with 7 billion parameters, offering advanced capabilities like object recognition, image analysis and visual localization. It can also generate structured outputs and is optimized for both performance and flexibility. It can recognize objects, analyze image content, act as a visual agent, and generate structured data.",
+    "slug": "qwen2-vl-7b-instruct"
+  },
+  {
+    "title": "DeepSeek Chat",
+    "type": "textToText",
+    "description": "DeepSeek V3 combines cutting-edge AI technology with practical usability. Featuring a 671B parameter architecture, enhanced reasoning capabilities, and lightning-fast processing, it sets new standards for open-source AI models.",
+    "slug": "deepseek-chat"
+  },
+  {
+    "title": "DeepSeek R1",
+    "type": "textToText",
+    "description": "DeepSeek-R1 is a cutting-edge AI reasoning model that combines reinforcement learning with supervised fine-tuning. Excels in complex problem-solving, mathematics, and coding tasks.",
+    "slug": "deepseek-reasoner"
+  },
+  {
+    "title": "KGen Mass-Gen",
+    "type": "imageToImage",
+    "description": "kgen mass gen",
+    "slug": "kgen-mass"
+  },
+  {
+    "title": "Replace Anything AI",
+    "type": "imageToImage",
+    "description": "Replace Anything AI",
+    "slug": "replace-anything-ai"
+  },
+  {
+    "title": "Character Swap",
+    "type": "imageToImage",
+    "description": "Character Swap",
+    "slug": "character-swap"
+  },
+  {
+    "title": "Minimax (Hailuo) Video-01-live",
+    "type": "imageToVideo",
+    "description": "Create stunning animations with Minimax (Hailuo) video-01-live, an AI image-to-video model perfect for Live2D, anime, and more. Transform static images into dynamic videos with smooth motion, facial control, and style support for diverse use cases like art, character animation, and e-commerce.",
+    "slug": "minimax-ai-live"
+  },
+  {
+    "title": "Kling AI 1.6 Image to Video",
+    "type": "imageToVideo",
+    "description": "Kling AI 1.6 Image-to-Video is a powerful AI tool that transforms static images into captivating, animated videos. Create high-quality content effortlessly with Kling AI's advanced capabilities.",
+    "slug": "kling-1.6-image2video"
+  },
+  {
+    "title": "Kling AI 1.6 Text to Video",
+    "type": "textToVideo",
+    "description": "Kling AI 1.6 Text-to-Video is a cutting-edge AI tool that transforms text into stunning, lifelike videos. Create professional-quality content effortlessly with Kling AI's advanced capabilities.",
+    "slug": "kling-1.6-text2video"
+  },
+  {
+    "title": "Insta adapter",
+    "type": "imageToImage",
+    "description": "Insta adapter",
+    "slug": "insta-adapter"
+  },
+  {
+    "title": "Ideogram Image To Image",
+    "type": "imageToImage",
+    "description": "Ideogram Image to Image: Transform your images with ease! Enhance, modify, or create entirely new visuals using advanced AI. Perfect for artists, designers, and anyone seeking creative inspiration.",
+    "slug": "ideogram-img-2-img"
+  },
+  {
+    "title": "Haiper Video 2",
+    "type": "imageToVideo",
+    "description": "Generate 4s and 6s videos from a prompt or image",
+    "slug": "haiper-video-2"
+  },
+  {
+    "title": "LTX Video",
+    "type": "imageToVideo",
+    "description": "LTX-Video is the first DiT-based video generation model capable of generating high-quality videos in real-time. It produces 24 FPS videos at a 768x512 resolution faster than they can be watched.",
+    "slug": "ltx-video"
+  },
+  {
+    "title": "MiniMax AI (Hailuo)",
+    "type": "imageToVideo",
+    "description": "With Video-01 by MiniMax, create high-definition videos at 720p resolution and 25fps, featuring cinematic camera movement effects based on text descriptions.",
+    "slug": "minimax-ai"
+  },
+  {
+    "title": "Hunyuan Video",
+    "type": "textToVideo",
+    "description": "Hunyuan AI Video is a new, state of the art, AI Video Generator that creates high-quality videos from text descriptions. With 13B parameters and state-of-the-art performance, it's the most powerful open-source video generation model available.",
+    "slug": "hunyuan-video"
+  },
+  {
+    "title": "Omini Control",
+    "type": "imageToImage",
+    "description": "OminiControl is an innovative framework that optimizes Diffusion Transformer models for versatile image generation tasks.",
+    "slug": "ominicontrol"
+  },
+  {
+    "title": "Luma Photon Flash Text to Image",
+    "type": "textToImage",
+    "description": "Luma Photon flash is a powerful and fast text-to-image model offering high-quality visuals with unmatched speed and precision. Ideal for creatives, it excels in instruction-following, composition, and aesthetic quality, transforming ideas into stunning images",
+    "slug": "luma-photon-flash-txt-2-img"
+  },
+  {
+    "title": "Luma Photon Text to Image",
+    "type": "textToImage",
+    "description": "Luma Photon is a powerful AI-driven text-to-image model offering high-quality visuals with unmatched speed and precision. Ideal for creatives, it excels in instruction-following, composition, and aesthetic quality, transforming ideas into stunning images",
+    "slug": "luma-photon-txt-2-img"
+  },
+  {
+    "title": "AI Product Photography ",
+    "type": "imageToImage",
+    "description": "Elevate your product imagery with our AI-powered photography model. Create stunning, professional-quality photos that boost engagement and sales. Perfect for e-commerce and digital marketing.",
+    "slug": "ai-product-photography"
+  },
+  {
+    "title": "Flux Fill Pro",
+    "type": "imageToImage",
+    "description": "Professional inpainting and outpainting model with state-of-the-art performance. Edit or extend images with natural, seamless results.",
+    "slug": "flux-fill-pro"
+  },
+  {
+    "title": "Flux Depth Pro",
+    "type": "imageToImage",
+    "description": "Professional depth-aware image generation. Edit images while preserving spatial relationships.",
+    "slug": "flux-depth-pro"
+  },
+  {
+    "title": "Flux Canny Pro",
+    "type": "imageToImage",
+    "description": "Professional edge-guided image generation. Control structure and composition using Canny edge detection",
+    "slug": "flux-canny-pro"
+  },
+  {
+    "title": "Flux Depth Dev",
+    "type": "imageToImage",
+    "description": "Open-weight depth-aware image generation. Edit images while preserving spatial relationships.",
+    "slug": "flux-depth-dev"
+  },
+  {
+    "title": "Flux Canny Dev",
+    "type": "imageToImage",
+    "description": "Open-weight edge-guided image generation. Control structure and composition using Canny edge detection.",
+    "slug": "flux-canny-dev"
+  },
+  {
+    "title": "Flux Fill Dev",
+    "type": "imageToImage",
+    "description": "Open-weight inpainting model for editing and extending images. Guidance-distilled from FLUX.1 Fill Dev",
+    "slug": "flux-fill-dev"
+  },
+  {
+    "title": "Flux Redux Schnell",
+    "type": "imageToImage",
+    "description": "Fast, efficient image variation model for rapid iteration and experimentation.",
+    "slug": "flux-redux-schnell"
+  },
+  {
+    "title": "Flux Redux Dev",
+    "type": "imageToImage",
+    "description": "Open-weight image variation model. Create new versions while preserving key elements of your original.",
+    "slug": "flux-redux-dev"
+  },
+  {
+    "title": "Transparent Background Maker",
+    "type": "imageToImage",
+    "description": "Transform your images with Transparent Background Maker. Quickly remove backgrounds using AI technology, supporting PNG and JPG formats. Ideal for enhancing product photos and creating eye-catching graphics for social media and marketing. ",
+    "slug": "transparent-background-maker"
+  },
+  {
+    "title": "Datawhisper V2",
+    "type": "imageToImage",
+    "description": "Datawhisper V2",
+    "slug": "datawhisper-v2"
+  },
+  {
+    "title": "Flux-1.1 Pro Ultra",
+    "type": "textToImage",
+    "description": "Create stunning visuals effortlessly with Flux 1.1 Pro Ultra. Experience unparalleled image quality and speed.",
+    "slug": "flux-1.1-pro-ultra"
+  },
+  {
+    "title": "NFSW Detection",
+    "type": "imageToText",
+    "description": "NFSW Detection",
+    "slug": "nfsw-detection"
+  },
+  {
+    "title": "Mochi 1",
+    "type": "textToVideo",
+    "description": "Mochi 1 is a cutting-edge, open-source AI model that transforms text prompts into stunning, high-fidelity videos. Create captivating videos from simple text prompts with unparalleled quality and realism. Experience high-fidelity motion, strong prompt adherence, and limitless creative possibilities",
+    "slug": "mochi-1"
+  },
+  {
+    "title": "Omnigen",
+    "type": "imageToImage",
+    "description": "Reimagine Image Creation with OmniGen. Transform text into breathtaking visuals, edit images effortlessly, and bring your creative ideas to life",
+    "slug": "omnigen"
+  },
+  {
+    "title": "Product photography V4",
+    "type": "imageToImage",
+    "description": "Product Photography V4",
+    "slug": "product-photography-v4"
+  },
+  {
+    "title": "Recraft V3",
+    "type": "textToImage",
+    "description": "Recraft V3, the latest iteration of Recraft AI, offers a significant advancement in AI-driven image generation. This state-of-the-art model is designed to produce high-quality, detailed vector graphics, catering to the needs of designers, artists, and content creators alike.",
+    "slug": "recraft-v3"
+  },
+  {
+    "title": "Recraft V3 Svg",
+    "type": "textToImage",
+    "description": "Recraft V3 SVG generates high-quality, customizable vector graphics with precision and ease. Perfect for logos, infographics, illustrations, and more.",
+    "slug": "recraft-v3-svg"
+  },
+  {
+    "title": "dw-virtual-staging",
+    "type": "imageToImage",
+    "description": "dw-virtual-staging",
+    "slug": "dw-virtual-staging"
+  },
+  {
+    "title": "Stable Diffusion 3.5 Turbo Text to Image",
+    "type": "textToImage",
+    "description": "Stable Diffusion 3.5 Turbo offers exceptional customizability, efficient performance on consumer hardware, and diverse image outputs that accurately represent different skin tones and features, all while maintaining high-quality results and strong prompt adherence.",
+    "slug": "stable-diffusion-3.5-turbo-txt2img"
+  },
+  {
+    "title": "Stable Diffusion 3.5 Large Text to Image",
+    "type": "textToImage",
+    "description": "Stable Diffusion 3.5 Large offers exceptional customizability, efficient performance on consumer hardware, and diverse image outputs that accurately represent different skin tones and features, all while maintaining high-quality results and strong prompt adherence.",
+    "slug": "stable-diffusion-3.5-large-txt2img"
+  },
+  {
+    "title": "Faceswap V3",
+    "type": "imageToImage",
+    "description": "Face Swap V3 is a cutting-edge tool that empowers you to seamlessly swap faces in images. With customizable features and advanced technology, you can achieve professional-quality results.",
+    "slug": "faceswap-v3"
+  },
+  {
+    "title": "image-resize",
+    "type": "imageToImage",
+    "description": "Effortlessly resize images without compromising quality. With customizable dimensions, aspect ratio maintenance, and padding options, it's the perfect tool for all your image processing needs.",
+    "slug": "image-resize"
+  },
+  {
+    "title": "Video Audio Merge",
+    "type": "videoToVideo",
+    "description": "Effortlessly merge audio and video with our intuitive Video Audio Merge model. Create stunning multimedia content with precise timing, fade effects, and customizable audio options. Perfect for content creators, filmmakers, and marketers.",
+    "slug": "video-audio-merge"
+  },
+  {
+    "title": "Runway Gen Alpha Turbo Image to Video",
+    "type": "imageToVideo",
+    "description": "Runway Gen-3 AlphaTurbo is a cutting-edge AI tool that transforms static images into dynamic videos with exceptional fidelity and motion",
+    "slug": "runway-gen3-alphaturbo"
+  },
+  {
+    "title": "Kling AI Image to Video",
+    "type": "imageToVideo",
+    "description": "Kling AI Image-to-Video is a powerful AI tool that transforms static images into captivating, animated videos. Create high-quality content effortlessly with Kling AI's advanced capabilities.",
+    "slug": "kling-image2video"
+  },
+  {
+    "title": "Kling AI Text to Video",
+    "type": "textToVideo",
+    "description": "Kling AI Text-to-Video is a cutting-edge AI tool that transforms text into stunning, lifelike videos. Create professional-quality content effortlessly with Kling AI's advanced capabilities.",
+    "slug": "kling-text2video"
+  },
+  {
+    "title": "Meta MusicGen Medium",
+    "type": "textToAudio",
+    "description": "MusicGen: Transform text into music with AI. Create unique, high-quality audio from simple descriptions. Experience the future of music generation with this innovative AI model.",
+    "slug": "meta-musicgen-medium"
+  },
+  {
+    "title": "Prompt Enhancer",
+    "type": "texttoText",
+    "description": "Segmind's Prompt Enhancer is a powerful AI tool that helps you refine and enrich your text prompts effortlessly. Create more detailed and customized content with ease.",
+    "slug": "prompt-enhancer"
+  },
+  {
+    "title": "Video Captioner",
+    "type": "videoToVideo",
+    "description": "With Video Captioner create accurate, customizable subtitles for your videos effortlessly.",
+    "slug": "video-captioner"
+  },
+  {
+    "title": "Face Detailer",
+    "type": "imageToImage",
+    "description": "Restore characters' faces to their original glory with Face Detailer. Enhance facial details, eliminate distortion, and upscale images for stunning results.",
+    "slug": "face-detailer"
+  },
+  {
+    "title": "flux-pro-1.1",
+    "type": "textToImage",
+    "description": "Flux Pro 1.1 is a cutting-edge image generation tool offering exceptional speed, quality, and customization. Ideal for digital artists, designers, and content creators.",
+    "slug": "flux-1.1-pro"
+  },
+  {
+    "title": "MyShell Text To Speech",
+    "type": "textToAudio",
+    "description": "MyShell's Voice Cloning and Text to Speech - Transform your audio content with realistic, personalized voices. Experience high-quality, efficient, and cost-effective audio synthesis.",
+    "slug": "myshell-tts"
+  },
+  {
+    "title": "Video Stitch",
+    "type": "imageToVideo",
+    "description": "Revolutionize your video editing with the Video Stitch Model. Seamlessly stitch clips, add captivating audio, and create professional-looking videos in minutes.",
+    "slug": "video-stitch"
+  },
+  {
+    "title": "Gradient Background Generator",
+    "type": "imageToIMage",
+    "description": "Gradient Background Generator",
+    "slug": "gradient-bg"
+  },
+  {
+    "title": "Simple Vector Flux Lora",
+    "type": "textToImage",
+    "description": "Flux is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions",
+    "slug": "Simple_Vector_Flux"
+  },
+  {
+    "title": "Ideogram Text To Image",
+    "type": "textToImage",
+    "description": "Ideogram Text to Image: Turn your ideas into stunning visuals instantly with this powerful AI tool. Create captivating designs, realistic images, and more. Perfect for artists, designers, and anyone seeking creative inspiration.",
+    "slug": "ideogram-txt-2-img"
+  },
+  {
+    "title": "Openvoice",
+    "type": "textToAudio",
+    "description": "OpenVoice is a versatile voice cloning model that supports multiple languages and offers precise tone replication, flexible style control, and zero-shot cross-lingual capabilities",
+    "slug": "openvoice"
+  },
+  {
+    "title": "Cog videoX Image To Video",
+    "type": "imageToVideo",
+    "description": "CogVideoX image-to-video is a cutting-edge AI model that converts static images into dynamic, high-quality videos. Perfect for content creation, animation, and education, it offers high-resolution output, efficient inference, and versatile precision. Transform your images into engaging videos with CogVideoX",
+    "slug": "cog-video-5b-i2v"
+  },
+  {
+    "title": "Expression Editor",
+    "type": "imageToImage",
+    "description": "Expression Editor uses reference images to accurately generate new images with desired expressions. Perfect for digital art, memes, and marketing.",
+    "slug": "expression-editor"
+  },
+  {
+    "title": "Esrgan Video Upscaler",
+    "type": "videoToVideo",
+    "description": "ESRGAN Video Upscaler: Experience sharper, clearer 4k videos with ESRGAN. This AI-powered video upscaler boosts resolution and reduces artifacts, making your video content look its best. Best Topaz alternative.",
+    "slug": "esrgan-video-upscaler"
+  },
+  {
+    "title": "Consistent Character With Pose",
+    "type": "imageToImage",
+    "description": "Create images of a given character in different poses",
+    "slug": "consistent-character-with-pose"
+  },
+  {
+    "title": "Consistent Character AI Neolemon V3",
+    "type": "imageToImage",
+    "description": "Create consistent characters in any pose with AI",
+    "slug": "consistent-character-AI-neolemon-v3"
+  },
+  {
+    "title": "Luma Text-to-Video ",
+    "type": "textToVideo",
+    "description": "Luma Video (Text to Video) is an advanced AI model that turns text prompts into captivating videos. Designed for creators and marketers, it offers high-resolution outputs, rapid processing, and cinematic quality, making video production accessible and efficient.",
+    "slug": "luma-txt-2-video"
+  },
+  {
+    "title": "Luma Image-to-Video",
+    "type": "imageToVideo",
+    "description": "With Luma's Dream Machine, transform your static images into dynamic videos. It offers high-fidelity video generation, rapid processing, and cinematic quality, enabling users to enhance their content creation process effortlessly.",
+    "slug": "luma-img-2-video"
+  },
+  {
+    "title": "Flux Pulid",
+    "type": "imageToImage",
+    "description": "Flux PuLID: Customize AI-generated images with your unique identity. Seamlessly integrate faces into text-to-image models for realistic and customizable results. High fidelity, tuning-free customization, and versatile editing options.",
+    "slug": "flux-pulid"
+  },
+  {
+    "title": "Flux Ipadapter",
+    "type": "imageToImage",
+    "description": "Flux IP Adapter is a cutting-edge AI model that lets you to create stunning, customized images. With its advanced style adaptation capabilities, Flux IP Adapter lets you seamlessly blend different artistic styles into your creations.",
+    "slug": "flux-ipadapter"
+  },
+  {
+    "title": "Flux Inpaint",
+    "type": "imageToImage",
+    "description": "Flux Inpainting is a powerful image editing tool designed to effortlessly edit and enhance your images. It's perfect for tasks like removing unwanted objects, restoring damaged photos, and creating artistic effects.",
+    "slug": "flux-inpaint"
+  },
+  {
+    "title": "Flux Controlnets",
+    "type": "imageToImage",
+    "description": "Flux ControlNets is a collection of models that gives you precise control over image generation. By integrating ControlNet with Flux.1, these models enable you to create highly detailed and customized images with unprecedented accuracy.",
+    "slug": "flux-controlnet"
+  },
+  {
+    "title": "OpenAI o1-mini",
+    "type": "textToText",
+    "description": "o1-mini by OpenAI provides high-performance reasoning and coding capabilities. Ideal for developers and businesses seeking advanced AI without the high costs.",
+    "slug": "o1-mini"
+  },
+  {
+    "title": "OpenAI o1-preview",
+    "type": "textToText",
+    "description": "o1-preview by OpenAI,  is a powerful AI model that can tackle complex problems with exceptional accuracy and efficiency. Ideal for researchers, developers, and scientists seeking advanced AI capabilities.",
+    "slug": "o1-preview"
+  },
+  {
+    "title": "Text Overlay",
+    "type": "imageToImage",
+    "description": "Elevate your visuals withText Overlay Model. Easily add customized text to any image, perfect for social media, marketing, and blogs. Enjoy precise positioning, advanced styling, and seamless integration.",
+    "slug": "text-overlay"
+  },
+  {
+    "title": "Cog Video X 5B",
+    "type": "textToVideo",
+    "description": "CogVideo is a groundbreaking AI model that turns text into high-quality videos. Create realistic scenes, animations, and more with ease. Ideal for content creators, educators, and businesses.",
+    "slug": "cog-video-5b-t2v"
+  },
+  {
+    "title": "Fast Flux.1 Schnell",
+    "type": "textToImage",
+    "description": "Fast Flux.1 Schnell by Segmind is an optimized text-to-image model designed for developers needing faster image generation. It offers high efficiency without compromising quality. Perfect for startups and engineers seeking quick, resource-efficient AI models. ",
+    "slug": "fast-flux-schnell"
+  },
+  {
+    "title": "Consistent Character AI Neolemon V2",
+    "type": "imageToImage",
+    "description": "Create consistent characters in any pose with AI",
+    "slug": "consistent-character-AI-neolemon-v2"
+  },
+  {
+    "title": "Flux Realism Lora with Upscale",
+    "type": "textToImage",
+    "description": "Flux Realism Lora  with upscale, developed by XLabs AI is a cutting-edge model designed to generate realistic images from textual descriptions.",
+    "slug": "flux-realism-lora"
+  },
+  {
+    "title": "Sam V2 Image",
+    "type": "imageToImage",
+    "description": "SAM v2, the next-gen segmentation model from Meta AI, revolutionizes computer vision. Building on SAM's success, it excels at accurately segmenting objects in images, offering robust and efficient solutions for various visual contexts.",
+    "slug": "sam-v2-image"
+  },
+  {
+    "title": "Sam V2 Video",
+    "type": "videoToVideo",
+    "description": "SAM v2 Video by Meta AI, allows promptable segmentation of objects in videos. ",
+    "slug": "sam-v2-video"
+  },
+  {
+    "title": "Consistent Character V1",
+    "type": "imageToImage",
+    "description": "Create images of a given character in different poses\r\n",
+    "slug": "consistent-character-ai-neolemon"
+  },
+  {
+    "title": "Flux.1 Image To Image ",
+    "type": "imageToImage",
+    "description": "Flux Image-To-Image model by Black Forest Labs is an advanced deep learning tool designed for transforming images based on specific textual prompts.",
+    "slug": "flux-img2img"
+  },
+  {
+    "title": "Easy Animate",
+    "type": "imageToVideo",
+    "description": "Easy Animate  is a state-of-the-art image to animation model to convert static images into dynamic animations with remarkable accuracy and fluidity.",
+    "slug": "easy-animate"
+  },
+  {
+    "title": "Flux.1 Dev",
+    "type": "textToImage",
+    "description": "Flux Dev is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions",
+    "slug": "flux-dev"
+  },
+  {
+    "title": "Flux.1 Schnell",
+    "type": "textToImage",
+    "description": "Flux Schnell\u00a0 is a state-of-the-art text-to-image generation model engineered for speed and efficiency.",
+    "slug": "flux-schnell"
+  },
+  {
+    "title": "Flux .1 Pro",
+    "type": "textToImage",
+    "description": "Flux Pro is a state-of-the-art image generation with top of the line prompt following, visual quality, image detail and output diversity.",
+    "slug": "flux-pro"
+  },
+  {
+    "title": "Text Embedding 3 Small",
+    "type": "textToEmbed",
+    "description": "Text-embedding-3-small is a compact and efficient model developed for generating high-quality text embeddings. These embeddings are numerical representations of text data, enabling a variety of natural language processing (NLP) tasks such as semantic search, clustering, and text classification",
+    "slug": "text-embedding-3-small"
+  },
+  {
+    "title": "Text Embedding 3 Large",
+    "type": "textToEmbed",
+    "description": "Text-embedding-3-large is a robust language model by OpenAI designed for generating high-dimensional text embeddings for a wide range of natural language processing (NLP) tasks including semantic search, text clustering, and classification.",
+    "slug": "text-embedding-3-large"
+  },
+  {
+    "title": "Realdream Pony V9",
+    "type": "textToImage",
+    "description": "Real Dream Pony V9 is an advanced image generation model based on the Stable Diffusion XL (SDXL) architecture, excelling in photorealism.",
+    "slug": "sdxl1.0-realdream-pony-v9"
+  },
+  {
+    "title": "AI Product Photo Editor",
+    "type": "imageToImage",
+    "description": "AI Product Photo Editor leverages advanced image-based ML techniques to generate high-quality product visuals using text prompts, product images, and background images. ",
+    "slug": "ai-product-photo-editor"
+  },
+  {
+    "title": "RealDream Lightning",
+    "type": "textToImage",
+    "description": "RealDream is a sophisticated image generation model utilizing SDXL Lightning architecture. It creates incredibly realistic images from textual prompts. With the ability to excellently generate human portraits from the user's descriptive text.",
+    "slug": "sdxl1.0-realdream-lightning"
+  },
+  {
+    "title": "Llama 3.1 405b",
+    "type": "textToText",
+    "description": "Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks.",
+    "slug": "llama-v3p1-405b-instruct"
+  },
+  {
+    "title": "Llama 3.1 70b",
+    "type": "textToText",
+    "description": "Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks.",
+    "slug": "llama-v3p1-70b-instruct"
+  },
+  {
+    "title": "Llama 3.1 8b",
+    "type": "textToText",
+    "description": "Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks.",
+    "slug": "llama-v3p1-8b-instruct"
+  },
+  {
+    "title": "Stable Diffusion 3 Medium Image to Image",
+    "type": "imageToImage",
+    "description": "Stable Diffusion 3 Medium image-to-image is a cutting-edge AI tool that uses advanced image-to-image technology to transform one image into another.",
+    "slug": "sd3-med-img2img"
+  },
+  {
+    "title": "SD3 Medium Tile Controlnet",
+    "type": "imageToImage",
+    "description": "SD3 Medium Tile ControlNet is a large generative image model designed for generating detailed images based on textual prompts and tile-based input images.",
+    "slug": "sd3-med-tile"
+  },
+  {
+    "title": "SD3 Medium Canny Controlnet",
+    "type": "imageToImage",
+    "description": "Stable Diffusion 3 (SD3) Medium Canny ControlNet uses Canny edge detection to provide fine-grained control over the generated outputs. ",
+    "slug": "sd3-med-canny"
+  },
+  {
+    "title": "SD3 Medium Pose Controlnet",
+    "type": "imageToImage",
+    "description": "Stable Diffusion 3 (SD3) Pose ControlNet is a large generative image model tailored for generating images based on text prompts while using pose information as guidance. ",
+    "slug": "sd3-med-pose"
+  },
+  {
+    "title": "Motion Control SVD",
+    "type": "imageToVideo",
+    "description": "Motion Control SVD is an innovative deep learning framework that breathes life into static images. By intelligently managing both camera and object motion, it empowers creators to achieve precise animation effects.",
+    "slug": "motionctrl-svd"
+  },
+  {
+    "title": "Live Portrait video to video",
+    "type": "imageToVideo",
+    "description": "Experience the magic of Live Portrait\u2019s Video-to-Video Model! Transform your static images into dynamic videos seamlessly. ",
+    "slug": "live-portrait-video-to-video"
+  },
+  {
+    "title": "Image Blend",
+    "type": "imageToImage",
+    "description": "Image Blend",
+    "slug": "image-blend"
+  },
+  {
+    "title": "Image Superimpose V2",
+    "type": "imageToImage",
+    "description": "Superimpose V2 elevates image editing! Seamlessly layer images with background removal, precise positioning, and flexible resizing options. Explore 14 blending modes to create stunning effects",
+    "slug": "superimpose-v2"
+  },
+  {
+    "title": "Video Faceswap",
+    "type": "imageToVideo",
+    "description": "Video Faceswap is  a powerful tool for creators, filmmakers, and meme enthusiasts. With this innovative technology, you can effortlessly replace faces in videos",
+    "slug": "videofaceswap"
+  },
+  {
+    "title": "Aura Flow",
+    "type": "imageToImage",
+    "description": "Largest completely open sourced flow-based generation model that is capable of text-to-image generation",
+    "slug": "aura-flow"
+  },
+  {
+    "title": "Live Portrait",
+    "type": "imageToVideo",
+    "description": "Live Portrait animates static images using a reference driving video through implicit key point based framework, bringing a portrait to life with realistic expressions and movements. It identifies key points on the face (think eyes, nose, mouth) and manipulates them to create expressions and movements.",
+    "slug": "live-portrait"
+  },
+  {
+    "title": "ElevenLabs Dubbing",
+    "type": "textToAudio",
+    "description": "ElevenLabs Dubbing uses AI to translate your audio into multiple languages. Easily create multilingual versions of your content without studios or voice actors for each language",
+    "slug": "dubbing"
+  },
+  {
+    "title": "Claude 3 Haiku",
+    "type": "textToText",
+    "description": "Claude 3 Haiku, the fastest and most cost-effective model LLM from Anthropic, delivers instant responses and image analysis. Build interactive AI experiences that mimic human conversation. Perfect for various applications, from research to enterprise",
+    "slug": "claude-3-haiku"
+  },
+  {
+    "title": "Claude 3 Opus",
+    "type": "textToText",
+    "description": "Claude 3 Opus is an LLM pushing the limits of language understanding. It excels at complex tasks, generates human-quality text, and remembers vast amounts of information.",
+    "slug": "claude-3-opus"
+  },
+  {
+    "title": "Gemini PRO",
+    "type": "imageToText",
+    "description": "Gemini 1.5 Pro represents a significant leap in large language model technology,  offering exceptional understanding and performance across different modalities and contexts.",
+    "slug": "gemini-1.5-pro"
+  },
+  {
+    "title": "Gemini Flash",
+    "type": "imageToText",
+    "description": "Gemini 1.5 Flash is a game-changer for developers and enterprises seeking a speedy and cost-effective large language model with exceptional long-context understanding.",
+    "slug": "gemini-1.5-flash"
+  },
+  {
+    "title": "Claude 3.5 Sonnet",
+    "type": "imageToText",
+    "description": "Claude 3.5 Sonnet represents a significant advancement in AI language models, combining speed, accuracy, and visual reasoning capabilities. It excels at understanding and completing requests thoughtfully, and does so much faster than previous versions. Additionally, it boasts a stronger vision model, allowing it to analyze visual data like charts and images with exceptional accuracy.",
+    "slug": "claude-3.5-sonnet"
+  },
+  {
+    "title": "Kolors",
+    "type": "imageToImage",
+    "description": "Kolors is a cutting-edge text-to-image model that bridges language and visual art. Transform your textual ideas into photorealistic images with semantic precision.",
+    "slug": "kolors"
+  },
+  {
+    "title": "Playground V2.5",
+    "type": "textToImage",
+    "description": "Playground V2.5 is a diffusion-based text-to-image generative model, designed to create highly aesthetic images based on textual prompts.",
+    "slug": "playground-v2.5"
+  },
+  {
+    "title": "Image Superimpose",
+    "type": "imageToImage",
+    "description": "Superimpose model lets you to create captivating visuals by seamlessly overlaying one image on top of another. It streamlines your image layering process, allowing you to bring your creative vision to life effortlessly.",
+    "slug": "superimpose"
+  },
+  {
+    "title": "SDXL Img2Img",
+    "type": "imageToImage",
+    "description": "SDXL Img2Img is used for text-guided image-to-image translation. This model uses the weights from Stable Diffusion to generate new images from an input image using StableDiffusionImg2ImgPipeline from diffusers\r\n",
+    "slug": "sdxl-img2img"
+  },
+  {
+    "title": "SDXL Controlnet",
+    "type": "imageToImage",
+    "description": "SDXL ControlNet gives unprecedented control over text-to-image generation. SDXL ControlNet models Introduces the concept of conditioning inputs, which provide additional information to guide the image generation process",
+    "slug": "sdxl-controlnet"
+  },
+  {
+    "title": "Story Diffusion",
+    "type": "imageToImage",
+    "description": "Story Diffusion turns your written narratives into stunning image sequences.",
+    "slug": "storydiffusion"
+  },
+  {
+    "title": "Elevenlabs Sound Generation",
+    "type": "textToAudio",
+    "description": "Eleven Labs' Sound Generation API provides a robust development tool for programmatically generating audio content using artificial intelligence. This API empowers developers and creators to integrate sound generation functionalities into their applications and workflows.",
+    "slug": "sound-generation"
+  },
+  {
+    "title": "Elevenlabs Speech To Speech",
+    "type": "audioToAudio",
+    "description": "Eleven Labs Speech-to-Speech offers AI-powered voice conversion for content creators, media professionals, and anyone seeking to modify or translate audio speech.",
+    "slug": "sts-eleven-labs"
+  },
+  {
+    "title": "Elevenlabs Text To Speech ",
+    "type": "textToAudio",
+    "description": "Eleven Labs Text-to-Speech (TTS) harnesses the power of deep learning to create realistic and engaging synthetic speech from written text.",
+    "slug": "tts-eleven-labs"
+  },
+  {
+    "title": "Omni Zero",
+    "type": "imageToImage",
+    "description": "Omni-Zero: A diffusion pipeline for zero-shot stylized portrait creation.",
+    "slug": "omni-zero"
+  },
+  {
+    "title": "Stable Diffusion 3 Turbo Image to Image",
+    "type": "imageToImage",
+    "description": "Distilled, few-step version of Stable Diffusion 3 Image to Image",
+    "slug": "stable-diffusion-3-turbo-img2img"
+  },
+  {
+    "title": "Stable Diffusion 3 Turbo Text to Image",
+    "type": "textToImage",
+    "description": "Distilled, few-step version of Stable Diffusion 3 Text to Image",
+    "slug": "stable-diffusion-3-turbo-txt2img"
+  },
+  {
+    "title": "LLAVA 1.6 7B",
+    "type": "imageToText",
+    "description": "LLaVa translates images into text descriptions & captions.",
+    "slug": "llava-v1.6"
+  },
+  {
+    "title": "LLaVA 13B",
+    "type": "imageToText",
+    "description": "LLaVA 13B is a Vision-language model which allows both image and text as inputs.",
+    "slug": "llava-13b"
+  },
+  {
+    "title": "Tooncrafter",
+    "type": "imageToVideo",
+    "description": "Create videos from illustrated input images",
+    "slug": "tooncrafter"
+  },
+  {
+    "title": "V Express",
+    "type": "imageToVideo",
+    "description": "V-Express lets you create portrait videos from single images.",
+    "slug": "v-express"
+  },
+  {
+    "title": "SadTalker",
+    "type": "imageToVideo",
+    "description": "Audio-based Lip Synchronization for Talking Head Video",
+    "slug": "sadtalker"
+  },
+  {
+    "title": "Hallo",
+    "type": "imageToVideo",
+    "description": "Hallo lets you create portrait videos from single images.",
+    "slug": "hallo"
+  },
+  {
+    "title": "Relighting",
+    "type": "imageToImage",
+    "description": "Prompts to auto-magically relight your images.",
+    "slug": "ic-light"
+  },
+  {
+    "title": "Automatic Mask Generator",
+    "type": "imageToImage",
+    "description": "Automatic Mask Generator is a powerful tool that automates the creation of precise masks for inpainting",
+    "slug": "automatic-mask-generator"
+  },
+  {
+    "title": "Magic Eraser",
+    "type": "imageToImage",
+    "description": "LaMA Object Removal- AI Magic Eraser",
+    "slug": "magic-eraser"
+  },
+  {
+    "title": "Inpaint Mask Maker",
+    "type": "imageToImage",
+    "description": "Real-Time Open-Vocabulary Object Detection",
+    "slug": "inpaint-mask-maker"
+  },
+  {
+    "title": "Background Eraser",
+    "type": "textToImage",
+    "description": "Background Eraser helps in flawless background removal with exceptional accuracy.",
+    "slug": "background-eraser"
+  },
+  {
+    "title": "Clarity Upscaler",
+    "type": "imageToImage",
+    "description": "High resolution creative image Upscaler and Enhancer. A free Magnific alternative.\r\n",
+    "slug": "clarity-upscaler"
+  },
+  {
+    "title": "Consistent Character",
+    "type": "imageToImage",
+    "description": "Create images of a given character in different poses\r\n",
+    "slug": "consistent-character"
+  },
+  {
+    "title": "IDM VTON",
+    "type": "imageToImage",
+    "description": "Best-in-class clothing virtual try on in the wild",
+    "slug": "idm-vton"
+  },
+  {
+    "title": "Stable Diffusion 3 Medium Text to Image",
+    "type": "textToImage",
+    "description": "Stable Diffusion is a type of latent diffusion model that can generate images from text. It was created by a team of researchers and engineers from CompVis, Stability AI, and LAION. Stable Diffusion v2 is a specific version of the model architecture. It utilizes a downsampling-factor 8 autoencoder with an 865M UNet and OpenCLIP ViT-H/14 text encoder for the diffusion model. When using the SD 2-v model, it produces 768x768 px images. It uses the penultimate text embeddings from a CLIP ViT-H/14 text encoder to condition the generation process.",
+    "slug": "stable-diffusion-3-medium-txt2img"
+  },
+  {
+    "title": "Fooocus",
+    "type": "imageToImage",
+    "description": "Fooocus enables high-quality image generation effortlessly, combining the best of Stable Diffusion and Midjourney.",
+    "slug": "fooocus"
+  },
+  {
+    "title": "IPAdapter Style Transfer",
+    "type": "imageToImage",
+    "description": "Style & Composition Transfer with Stable Diffusion IP Adapter ",
+    "slug": "style-transfer"
+  },
+  {
+    "title": "Profile Photo Style Transfer",
+    "type": "imageToImage",
+    "description": "Turn any image of a face into artwork using Stable Diffusion Controlnet and IPAdapter",
+    "slug": "become-image"
+  },
+  {
+    "title": "illusion-diffusion-hq",
+    "type": "imageToImage",
+    "description": "Monster Labs QrCode ControlNet on top of SD Realistic Vision v5.1",
+    "slug": "illusion-diffusion-hq"
+  },
+  {
+    "title": "PuLID",
+    "type": "imageToImage",
+    "description": "Novel tuning-free ID customization method for text-to-image generation.",
+    "slug": "pulid-base"
+  },
+  {
+    "title": "Yamer's Realistic SDXL",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software.",
+    "slug": "sdxl1.0-yamers-realistic"
+  },
+  {
+    "title": "GPT 4 turbo",
+    "type": "textToText",
+    "description": "GPT-4 outperforms both previous large language models and as of 2023, most state-of-the-art systems (which often have benchmark-specific training or hand-engineering). On the MMLU benchmark, an English-language suite of multiple-choice questions covering 57 subjects, GPT-4 not only outperforms existing models by a considerable margin in English, but also demonstrates strong performance in other languages. Currently points to gpt-4-turbo-2024-04-09.",
+    "slug": "gpt-4-turbo"
+  },
+  {
+    "title": "GPT 4o",
+    "type": "imageToText",
+    "description": "GPT-4o (\u201co\u201d for \u201comni\u201d) is our most advanced model. It is multimodal (accepting text or image inputs and outputting text), and it has the same high intelligence as GPT-4 Turbo but is much more efficient\u2014it generates text 2x faster and is 50% cheaper. Additionally, GPT-4o has the best vision and performance across non-English languages of any of our models. GPT-4o is available in the OpenAI API to paying customers. ",
+    "slug": "gpt-4o"
+  },
+  {
+    "title": "GPT 4",
+    "type": "textToText",
+    "description": "GPT-4 outperforms both previous large language models and as of 2023, most state-of-the-art systems (which often have benchmark-specific training or hand-engineering). On the MMLU benchmark, an English-language suite of multiple-choice questions covering 57 subjects, GPT-4 not only outperforms existing models by a considerable margin in English, but also demonstrates strong performance in other languages.",
+    "slug": "gpt-4"
+  },
+  {
+    "title": "GPT 3.5 Turbo",
+    "type": "textToText",
+    "description": "GPT-3.5 Turbo models can understand and generate natural language or code and have been optimized for chat using the Chat Completions API but work well for non-chat tasks as well.",
+    "slug": "gpt-3.5-turbo"
+  },
+  {
+    "title": "Mixtral 8x7b",
+    "type": "textToText",
+    "description": "Mistral MoE 8x7B Instruct v0.1 model with Sparse Mixture of Experts. Fine tuned for instruction following.",
+    "slug": "mixtral-8x7b-instruct"
+  },
+  {
+    "title": "Mixtral 8x22b",
+    "type": "textToText",
+    "description": "Mistral MoE 8x22B Instruct v0.1 model with Sparse Mixture of Experts. Fine tuned for instruction following.",
+    "slug": "mixtral-8x22b-instruct"
+  },
+  {
+    "title": "PuLID Lightning",
+    "type": "imageToImage",
+    "description": "Faster version of PuLID, a novel tuning-free face customization method for text-to-image generation",
+    "slug": "pulid-lightning"
+  },
+  {
+    "title": "Fashion AI",
+    "type": "imageToImage",
+    "description": "This model is capable of editing clothing in an image using a premier clothing segmentation algorithm.",
+    "slug": "fashion-ai"
+  },
+  {
+    "title": "face-to-many",
+    "type": "imageToImage",
+    "description": "Turn a face into 3D, emoji, pixel art, video game, claymation or toy",
+    "slug": "face-to-many"
+  },
+  {
+    "title": "face-to-sticker",
+    "type": "imageToImage",
+    "description": "Turn a face into a sticker",
+    "slug": "face-to-sticker"
+  },
+  {
+    "title": "Llama 3 8b",
+    "type": "textToText",
+    "description": "Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks.",
+    "slug": "llama-v3-8b-instruct"
+  },
+  {
+    "title": "material-transfer",
+    "type": "imageToImage",
+    "description": "Transfer a material from an image to a subject",
+    "slug": "material-transfer"
+  },
+  {
+    "title": "Llama 3 70b",
+    "type": "textToText",
+    "description": "Meta developed and released the Meta Llama 3 family of large language models (LLMs), a collection of pretrained and instruction tuned generative text models in 8 and 70B sizes. The Llama 3 instruction tuned models are optimized for dialogue use cases and outperform many of the available open source chat models on common industry benchmarks.",
+    "slug": "llama-v3-70b-instruct"
+  },
+  {
+    "title": "Photo Maker",
+    "type": "imageToImage",
+    "description": "Convert Text into Images with the fastest generative APIs.\\nStable Diffusion XL 1.0 Serverless APIs, Segmind offers fastest.\r\n",
+    "slug": "photomaker"
+  },
+  {
+    "title": "Faceswap V2",
+    "type": "imageToImage",
+    "description": "Take a picture/gif and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training",
+    "slug": "faceswap-v2"
+  },
+  {
+    "title": "Insta Depth",
+    "type": "imageToImage",
+    "description": "InstantID aims to generate customized images with various poses or styles from only a single reference ID image while ensuring high fidelity",
+    "slug": "insta-depth"
+  },
+  {
+    "title": "Product Photography V2",
+    "type": "imageToImage",
+    "description": "Explore the latest AI models for Product Photography",
+    "slug": "product-photography-v2"
+  },
+  {
+    "title": "Background Removal V2",
+    "type": "imageToImage",
+    "description": "This model removes the background image from any image",
+    "slug": "bg-removal-v2"
+  },
+  {
+    "title": "NewReality Lightning SDXL",
+    "type": "textToImage",
+    "description": "NewReality Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-newreality-lightning"
+  },
+  {
+    "title": "DreamShaper Lightning SDXL",
+    "type": "textToImage",
+    "description": "DreamShaper Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-dreamshaper-lightning"
+  },
+  {
+    "title": "Colossus Lightning SDXL",
+    "type": "textToImage",
+    "description": "Colossus Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-colossus-lightning"
+  },
+  {
+    "title": "Animagine Lightning SDXL",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software.",
+    "slug": "sdxl1.0-animagine-lightning"
+  },
+  {
+    "title": "Samaritan Lightning SDXL",
+    "type": "textToImage",
+    "description": "Samaritan Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-samaritan-lightning"
+  },
+  {
+    "title": "Realism Lightning SDXL",
+    "type": "textToImage",
+    "description": "Realism Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-realism-lightning"
+  },
+  {
+    "title": "ProtoVision Lightning SDXL",
+    "type": "textToImage",
+    "description": "ProtoVision Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-protovis-lightning"
+  },
+  {
+    "title": "NightVis Lightning SDXL",
+    "type": "textToImage",
+    "description": "NightVis Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-nightvis-lightning"
+  },
+  {
+    "title": "WildCard Lightning SDXL",
+    "type": "textToImage",
+    "description": "WildCard Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-wildcard-lightning"
+  },
+  {
+    "title": "Dynavis Lightning SDXL",
+    "type": "textToImage",
+    "description": "Dynavis Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-dyanvis-lightning"
+  },
+  {
+    "title": "Juggernaut Lightning SDXL",
+    "type": "textToImage",
+    "description": "Juggernaut Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-juggernaut-lightning"
+  },
+  {
+    "title": "Realvis Lightning SDXL",
+    "type": "textToImage",
+    "description": "Realvis Lightning SDXL is a lightning-fast text-to-image generation model. It can generate high-quality 1024px images in a few steps.",
+    "slug": "sdxl1.0-realvis-lightning"
+  },
+  {
+    "title": "Try-On Diffusion",
+    "type": "inpainting",
+    "description": "Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on",
+    "slug": "try-on-diffusion"
+  },
+  {
+    "title": "Background Replace",
+    "type": "inpainting",
+    "description": "This model is capable of generating photo-realistic images given any text input, with the extra capability of inpainting the pictures by using a mask",
+    "slug": "bg-replace"
+  },
+  {
+    "title": "Fox Lora",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software.",
+    "slug": "foxy-lora"
+  },
+  {
+    "title": "Fooocus Inpainting",
+    "type": "inpainting",
+    "description": "Fooocus Inpainting is a powerful image generation model that allows you to selectively edit and enhance images.",
+    "slug": "focus-inpaint"
+  },
+  {
+    "title": "Fooocus Outpainting",
+    "type": "imageToImage",
+    "description": "Fooocus Outpainting transforms ordinary images into extraordinary works of art by seamlessly expanding their boundaries.",
+    "slug": "focus-outpaint"
+  },
+  {
+    "title": "InstantID",
+    "type": "imageToImage",
+    "description": "InstantID aims to generate customized images with various poses or styles from only a single reference ID image while ensuring high fidelity",
+    "slug": "instantid"
+  },
+  {
+    "title": "Samaritan 3D XL",
+    "type": "textToImage",
+    "description": "Samaritan 3D XL leverages the robust capabilities of the SDXL framework, ensuring high-quality, detailed 3D character renderings.",
+    "slug": "sdxl1.0-samaritan-3d"
+  },
+  {
+    "title": "Stable Video Diffusion",
+    "type": "imageToVideo",
+    "description": "Takes image as input and returns a video.",
+    "slug": "svd"
+  },
+  {
+    "title": "Segmind-Vega",
+    "type": "textToImage",
+    "description": "The Segmind-Vega Model is a distilled version of the Stable Diffusion XL (SDXL), offering a remarkable 70% reduction in size and an impressive 100% speedup while retaining high-quality text-to-image generation capabilities.",
+    "slug": "segmind-vega"
+  },
+  {
+    "title": "Segmind-VegaRT",
+    "type": "textToImage",
+    "description": "Segmind-VegaRT a distilled consistency adapter for Segmind-Vega that allows to reduce the number of inference steps to only between 2 - 8 steps.",
+    "slug": "segmind-vega-rt-v1"
+  },
+  {
+    "title": "IP-adapter Openpose XL",
+    "type": "imageToImage",
+    "description": "IP Adapter XL Openpose is built on the SDXL framework. This model integrates the IP Adapter and Openpose preprocessor to offer unparalleled control and guidance in creating context-rich images.",
+    "slug": "ip-sdxl-openpose"
+  },
+  {
+    "title": "IP-adapter Canny XL",
+    "type": "imageToImage",
+    "description": "IP Adpater XL Canny is built on the SDXL framework. This model integrates the IP Adapter and Canny edge preprocessor to offer unparalleled control and guidance in creating context-rich images.",
+    "slug": "ip-sdxl-canny"
+  },
+  {
+    "title": "IP-adapter Depth XL",
+    "type": "imageToImage",
+    "description": "IP Adapter Depth XL is built on the SDXL framework. This model integrates the IP Adapter and Depth preprocessor to offer unparalleled control and guidance in creating context-rich images.",
+    "slug": "ip-sdxl-depth"
+  },
+  {
+    "title": "SDXL Inpaint",
+    "type": "inpainting",
+    "description": "This model is capable of generating photo-realistic images given any text input, with the extra capability of inpainting the pictures by using a mask\r\n",
+    "slug": "sdxl-inpaint"
+  },
+  {
+    "title": "SSD Img2Img",
+    "type": "imageToImage",
+    "description": "This model uses SSD-1B to generate images by passing a text prompt and an initial image to condition the generation\r\n",
+    "slug": "ssd-img2img"
+  },
+  {
+    "title": "SDXL-Openpose",
+    "type": "imageToImage",
+    "description": "This model leverages SDXL to generate the images with ControlNet conditioned on Human Pose Estimation.",
+    "slug": "sdxl-openpose"
+  },
+  {
+    "title": "SSD-Depth",
+    "type": "imageToImage",
+    "description": "This model leverages SSD-1B to generate the images with ControlNet conditioned on Depth Estimation",
+    "slug": "ssd-depth"
+  },
+  {
+    "title": "SSD-Canny",
+    "type": "imageToImage",
+    "description": "This model leverages SSD-1B to generate the images with ControlNet conditioned on Canny Images\r\n",
+    "slug": "ssd-canny"
+  },
+  {
+    "title": "Stable Diffusion XL 1.0 - Torch",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software",
+    "slug": "sdxl-torch"
+  },
+  {
+    "title": "Stable Diffusion XL 1.0 - Torch ",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software",
+    "slug": "ssd-torch"
+  },
+  {
+    "title": "SSD-1B",
+    "type": "textToImage",
+    "description": "SSD-1B efficiently generates high-quality, diverse images from text prompts in real-time.",
+    "slug": "ssd-1b"
+  },
+  {
+    "title": "Copax Timeless SDXL",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software.",
+    "slug": "sdxl1.0-timeless"
+  },
+  {
+    "title": "Zavychroma SDXL",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software.",
+    "slug": "sdxl1.0-zavychroma"
+  },
+  {
+    "title": "Realvis SDXL",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software.",
+    "slug": "sdxl1.0-realvis"
+  },
+  {
+    "title": "Dreamshaper SDXL",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software.",
+    "slug": "sdxl1.0-dreamshaper"
+  },
+  {
+    "title": "Stable Diffusion 2.1",
+    "type": "textToImage",
+    "description": "Stable Diffusion is a type of latent diffusion model that can generate images from text. It was created by a team of researchers and engineers from CompVis, Stability AI, and LAION. Stable Diffusion v2 is a specific version of the model architecture. It utilizes a downsampling-factor 8 autoencoder with an 865M UNet and OpenCLIP ViT-H/14 text encoder for the diffusion model. When using the SD 2-v model, it produces 768x768 px images. It uses the penultimate text embeddings from a CLIP ViT-H/14 text encoder to condition the generation process.",
+    "slug": "sd2.1-txt2img"
+  },
+  {
+    "title": "Stable Diffusion XL 0.9",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software.",
+    "slug": "sdxl-txt2img"
+  },
+  {
+    "title": "Word2img",
+    "type": "imageToImage",
+    "description": "Create beautifully designed words using Segmind\u2019s word to image for your marketing purposes",
+    "slug": "w2imgsd1.5-img2img"
+  },
+  {
+    "title": "Segmind Tiny-SD",
+    "type": "textToImage",
+    "description": "Convert Text into Images with the latest distilled stable diffusion model",
+    "slug": "tinysd1.5-txt2img"
+  },
+  {
+    "title": "Stable Diffusion Inpainting",
+    "type": "inpainting",
+    "description": "Stable Diffusion Inpainting is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, with the extra capability of inpainting the pictures by using a mask",
+    "slug": "sd1.5-inpainting"
+  },
+  {
+    "title": "Stable Diffusion img2img",
+    "type": "imageToImage",
+    "description": "This model uses diffusion-denoising mechanism as first proposed by SDEdit, Stable Diffusion is used for text-guided image-to-image translation. This model uses the weights from Stable Diffusion to generate new images from an input image using StableDiffusionImg2ImgPipeline from diffusers",
+    "slug": "sd1.5-img2img"
+  },
+  {
+    "title": "Segmind Small-SD",
+    "type": "textToImage",
+    "description": "Create realistic portrait images using the finetined Segmind Tiny SD model. Segmind Tiny SD (Portrait) Serverless APIs, Segmind offers fastest deployment for Tiny-Stable-Diffusion inferences",
+    "slug": "smallsd1.5-txt2img"
+  },
+  {
+    "title": "Stable Diffusion XL 1.0",
+    "type": "textToImage",
+    "description": "The SDXL model is the official upgrade to the v1.5 model. The model is released as open-source software",
+    "slug": "sdxl1.0-txt2img"
+  },
+  {
+    "title": "Scifi",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-scifi"
+  },
+  {
+    "title": "Samaritan",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images",
+    "slug": "sd1.5-samaritan_3d"
+  },
+  {
+    "title": "RPG",
+    "type": "textToImage",
+    "description": "This model corresponds to the Stable Diffusion RPG checkpoint for detailed images at the cost of a super detailed prompt",
+    "slug": "sd1.5-rpg"
+  },
+  {
+    "title": "Reliberate",
+    "type": "textToImage",
+    "description": "This model corresponds to the Stable Diffusion Reliberate checkpoint for detailed images at the cost of a super detailed prompt",
+    "slug": "sd1.5-reliberate"
+  },
+  {
+    "title": "Realistic Vision",
+    "type": "textToImage",
+    "description": "This model corresponds to the Stable Diffusion Realistic Vision checkpoint for detailed images at the cost of a super detailed prompt",
+    "slug": "sd1.5-realisticvision"
+  },
+  {
+    "title": "RCNZ - Cartoon",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images",
+    "slug": "sd1.5-rcnz"
+  },
+  {
+    "title": "Paragon",
+    "type": "textToImage",
+    "description": "This model corresponds to the Stable Diffusion Paragon checkpoint for detailed images at the cost of a super detailed prompt",
+    "slug": "sd1.5-paragon"
+  },
+  {
+    "title": "SD Outpainting",
+    "type": "imageToImage",
+    "description": "Stable Diffusion Outpainting can extend any image in any direction",
+    "slug": "sd1.5-outpaint"
+  },
+  {
+    "title": "Manmarumix",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-manmarumix"
+  },
+  {
+    "title": "Majicmix",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-majicmix"
+  },
+  {
+    "title": "Juggernaut Final",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-juggernaut"
+  },
+  {
+    "title": "Icbinp",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images",
+    "slug": "sd1.5-icbinp"
+  },
+  {
+    "title": "Fruit Fusion",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-fruitfusion"
+  },
+  {
+    "title": "Flat 2d",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-flat2d"
+  },
+  {
+    "title": "Fantassified Icons",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-fantassifiedicons"
+  },
+  {
+    "title": "Epic Realism",
+    "type": "textToImage",
+    "description": "This model corresponds to the Stable Diffusion Epic Realism checkpoint for detailed images at the cost of a super detailed prompt",
+    "slug": "sd1.5-epicrealism"
+  },
+  {
+    "title": "Edge of Realism",
+    "type": "textToImage",
+    "description": "This model corresponds to the Stable Diffusion Edge of Realism checkpoint for detailed images at the cost of a super detailed prompt",
+    "slug": "sd1.5-edgeofrealism"
+  },
+  {
+    "title": "DvArch",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-dvrach"
+  },
+  {
+    "title": "Dream Shaper",
+    "type": "textToImage",
+    "description": "Dreamshaper excels in delivering high-quality, detailed images. It is fine-tuned to understand and interpret a diverse range of artistic styles and subjects.",
+    "slug": "sd1.5-dreamshaper"
+  },
+  {
+    "title": "Deep Spaced Diffusion",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic space themed images.",
+    "slug": "sd1.5-deepspacediffusion"
+  },
+  {
+    "title": "Cyber Realistic",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-cyberrealistic"
+  },
+  {
+    "title": "Cute Rich Style",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-cuterichstyle"
+  },
+  {
+    "title": "Colorful",
+    "type": "textToImage",
+    "description": "This model corresponds to the Stable Diffusion Colorful checkpoint for detailed images at the cost of a super detailed prompt",
+    "slug": "sd1.5-colorful"
+  },
+  {
+    "title": "All in one pixe",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-allinonepixel"
+  },
+  {
+    "title": "526mix",
+    "type": "textToImage",
+    "description": "The most versatile photorealistic model that blends various models to achieve the amazing realistic images.",
+    "slug": "sd1.5-526mix"
+  },
+  {
+    "title": "QR Generator",
+    "type": "textToImage",
+    "description": "Create beautiful and creative QR codes for your marketing campaigns.",
+    "slug": "qrsd1.5-txt2img"
+  },
+  {
+    "title": "Segmind Tiny-SD (Portrait)",
+    "type": "textToImage",
+    "description": "Convert text to images with the distilled stable diffusion model by Segmind, Small-SD. Segmind Small SD Serverless APIs, Segmind offers fastest deployment for Small-Stable-Diffusion inferences.",
+    "slug": "potraitsd1.5-txt2img"
+  },
+  {
+    "title": "Kandinsky 2.1",
+    "type": "textToImage",
+    "description": "Kandinsky inherits best practices from Dall-E 2 and Latent diffusion, while introducing some new ideas.",
+    "slug": "kandinsky2.1-txt2im"
+  },
+  {
+    "title": "ControlNet Soft Edge",
+    "type": "imageToImage",
+    "description": "This model corresponds to the ControlNet conditioned on Soft Edge.",
+    "slug": "sd1.5-controlnet-softedge"
+  },
+  {
+    "title": "ControlNet Scribble",
+    "type": "imageToImage",
+    "description": "This model corresponds to the ControlNet conditioned on Scribble images.",
+    "slug": "sd1.5-controlnet-scribble"
+  },
+  {
+    "title": "ControlNet Depth",
+    "type": "imageToImage",
+    "description": "This model corresponds to the ControlNet conditioned on Depth estimation.",
+    "slug": "sd1.5-controlnet-depth"
+  },
+  {
+    "title": "ControlNet Canny",
+    "type": "imageToImage",
+    "description": "This model corresponds to the ControlNet conditioned on Canny edges.",
+    "slug": "sd1.5-controlnet-canny"
+  },
+  {
+    "title": "Codeformer",
+    "type": "imageToImage",
+    "description": "CodeFormer is a robust face restoration algorithm for old photos or AI-generated faces.",
+    "slug": "codeformer"
+  },
+  {
+    "title": "Segment Anything Model",
+    "type": "imageToImage",
+    "description": "The Segment Anything Model (SAM) produces high quality object masks from input prompts such as points or boxes, and it can be used to generate masks for all objects in an image.",
+    "slug": "sam-img2img"
+  },
+  {
+    "title": "Faceswap",
+    "type": "imageToImage",
+    "description": "Take a picture/gif and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training",
+    "slug": "sd2.1-faceswapper"
+  },
+  {
+    "title": "Revanimated",
+    "type": "textToImage",
+    "description": "This model corresponds to the Stable Diffusion Revanimated checkpoint for detailed images at the cost of a super detailed prompt",
+    "slug": "sd1.5-revanimated"
+  },
+  {
+    "title": "Background Removal",
+    "type": "imageToImage",
+    "description": "This model removes the background image from any image",
+    "slug": "bg-removal"
+  },
+  {
+    "title": "ESRGAN",
+    "type": "imageToImage",
+    "description": "ERGAN is an Image Super-Resolution (upscaler) model that enhances images with stunning, high-quality upscaling while preserving the exact composition of the original source. It improves detail without altering the image content.",
+    "slug": "esrgan"
+  },
+  {
+    "title": "ControlNet Openpose",
+    "type": "imageToImage",
+    "description": "This model corresponds to the ControlNet conditioned on Human Pose Estimation.",
+    "slug": "sd1.5-controlnet-openpose"
+  }
+]
